@@ -1,0 +1,1126 @@
+ID_Empleado,Estado,Nacimiento,Genero,Departamento,Posicion,Nombre_Jefe,Estatura,Estrato,Fecha_ Ingreso,Fecha_Retiro,Retirado
+602574667,"Massachusetts, Estados Unidos",21/11/1961,Male,Software Engineering     ,Manager,Janet King,1.77,3,29/05/2020,30/10/2020,1
+602630955,"California, Estados Unidos",8/8/1968,Male,Information Technlogy,Engineer II,Simon Roup,1.63,2,27/08/1998,,0
+603093340,"Massachusetts, Estados Unidos",1/10/1994,Male,Admin Offices,Administrative I,Elijiah Gray,1.64,3,7/11/2016,,0
+603951078,"California, Estados Unidos",6/7/1989,Female,Admin Offices,Administrative II,Elijiah Gray,1.61,4,4/01/2014,,0
+605083858,"California, Estados Unidos",21/2/1967,Male,Production       ,Technician II,Kissy Sullivan,1.87,2,8/11/2004,,0
+605803026,"Indiana, Estados Unidos",17/4/1956,Male,Admin Offices,Administrative II,David Stanley,1.65,2,31/07/2018,16/10/2019,1
+608272609,"Massachusetts, Estados Unidos",11/10/1993,Male,Production       ,Technician I,Brannon Miller,1.69,1,20/04/2014,,0
+609719271,"Massachusetts, Estados Unidos",16/9/1983,Male,Production       ,Technician I,Elijiah Gray,1.67,5,26/04/2008,,0
+610475894,"California, Estados Unidos",12/5/1992,Female,Admin Offices,Administrative I,Elijiah Gray,1.67,5,18/02/2012,,0
+612207722,"Massachusetts, Estados Unidos",20/3/1993,Male,Production       ,Manager,Janet King,1.76,3,24/03/2017,20/05/2019,1
+612757913,"Massachusetts, Estados Unidos",17/11/1981,Female,Information Technlogy,Engineer II,Peter Monroe,1.66,3,17/11/2012,,0
+615671219,"Massachusetts, Estados Unidos",18/2/1959,Male,Information Technlogy,Engineer II,Peter Monroe,1.69,3,18/01/2006,,0
+615944114,"California, Estados Unidos",15/10/1979,Female,Admin Offices,Administrative I,Brandon R. LeBlanc,1.79,3,10/11/1998,,0
+616137502,"Massachusetts, Estados Unidos",5/11/1977,Female,Production       ,Technician I,Brannon Miller,1.67,4,12/07/2000,,0
+616802009,"California, Estados Unidos",11/10/1996,Female,Admin Offices,Administrative I,Elijiah Gray,1.67,5,19/11/2016,7/12/2018,1
+617085408,"California, Estados Unidos",21/8/1955,Female,Production       ,Technician II,Brannon Miller,1.54,2,23/02/2004,24/10/2006,1
+618576664,"Texas, Estados Unidos",4/9/1970,Female,Production       ,Technician II,Amy Dunn,1.91,1,24/07/1994,,0
+619628219,"California, Estados Unidos",2/4/1972,Female,Admin Offices,Manager,Elijiah Gray,1.55,1,14/04/1998,14/09/1998,1
+621283476,"California, Estados Unidos",11/9/1961,Male,Information Technlogy,Director,Jennifer Zamora,1.56,3,19/06/1999,,0
+622761422,"North Dakota, Estados Unidos",6/8/1991,Male,Admin Offices,Administrative II,Elijiah Gray,1.62,1,13/07/2012,27/12/2012,1
+623381710,"Texas, Estados Unidos",22/10/1988,Female,Information Technlogy,Engineer I,Simon Roup,1.81,4,3/09/2017,11/09/2020,1
+625157632,"California, Estados Unidos",11/11/1981,Male,Software Engineering,Engineer II,Alex Sweetwater,1.63,5,22/01/2011,,0
+626034297,"Texas, Estados Unidos",13/5/1992,Female,Software Engineering,Engineer II,Alex Sweetwater,1.69,3,15/11/2015,4/01/2017,1
+626868646,"Texas, Estados Unidos",8/4/1967,Male,Sales,Engineer II,Lynn Daneault,1.92,2,5/02/2014,,0
+626953044,"California, Estados Unidos",6/6/1997,Female,Production       ,Technician II,Michael Albert,1.83,4,19/10/2020,,0
+627121057,"California, Estados Unidos",28/8/1973,Male,Production       ,Technician II,Brannon Miller,1.52,2,22/11/2010,20/04/2019,1
+627347519,"Texas, Estados Unidos",13/5/1956,Female,Admin Offices,Administrative I,David Stanley,1.84,1,27/12/2006,16/10/2017,1
+628806453,"Texas, Estados Unidos",27/12/1990,Male,Software Engineering,Engineer I,Alex Sweetwater,1.74,5,1/04/2017,,0
+630290965,"Texas, Estados Unidos",9/7/1991,Female,Production       ,Technician I,Amy Dunn,1.75,5,9/12/2011,,0
+630317664,"Texas, Estados Unidos",11/9/1991,Male,Production       ,Technician I,Brannon Miller,1.73,5,2/02/2010,,0
+631296631,"Texas, Estados Unidos",21/3/1970,Male,Production       ,Manager,Jennifer Zamora,1.54,3,30/07/2001,,0
+632809561,"Massachusetts, Estados Unidos",18/7/1989,Female,Information Technlogy,Engineer I,Eric Dougall,1.9,3,21/04/2008,9/11/2016,1
+634294052,"Texas, Estados Unidos",17/3/1973,Female,Production       ,Technician I,Amy Dunn,1.75,5,4/06/2020,,0
+634526727,"Texas, Estados Unidos",13/1/1990,Male,Sales,Director,Jennifer Zamora,1.81,4,2/05/2020,,0
+635632749,"Nueva York, Estados Unidos",25/11/1986,Male,Admin Offices,Manager,Janet King,1.54,5,28/02/2018,18/02/2019,1
+637527720,"Massachusetts, Estados Unidos",31/3/1962,Female,Executive Office,Director,Board of Directors,1.51,3,31/05/2001,,0
+638501245,"Texas, Estados Unidos",28/9/1969,Female,Production       ,Technician I,Elijiah Gray,1.68,3,15/04/2004,,0
+638533650,"Idaho, Estados Unidos",27/7/1990,Male,Software Engineering,Engineer II,Alex Sweetwater,1.72,3,6/11/2009,,0
+639515327,"California, Estados Unidos",17/8/1959,Female,Production       ,Technician II,Amy Dunn,1.55,4,24/05/2020,,0
+639859766,"California, Estados Unidos",3/8/1989,Male,Admin Offices,Administrative I,Brandon R. LeBlanc,1.77,5,11/01/2014,17/06/2014,1
+639879727,"California, Estados Unidos",21/6/1970,Male,Production       ,Technician II,Brannon Miller,1.52,2,11/09/2002,,0
+640160903,"Massachusetts, Estados Unidos",24/6/1994,Male,Production       ,Technician I,Brannon Miller,1.73,5,10/01/2013,14/01/2019,1
+641442347,"Texas, Estados Unidos",30/8/1958,Male,Executive Office,Director,Board of Directors,1.52,3,31/03/2006,19/02/2020,1
+642223571,"Texas, Estados Unidos",7/11/1977,Female,Admin Offices,Administrative I,Brandon R. LeBlanc,1.74,4,17/04/2003,,0
+644483290,"California, Estados Unidos",30/3/1978,Male,Production       ,Technician II,Michael Albert,1.81,4,3/10/2003,1/11/2019,1
+645035980,"Colorado, Estados Unidos",25/11/1984,Male,Sales,Engineer I,Lynn Daneault,1.54,5,10/04/2009,,0
+645425408,"California, Estados Unidos",2/2/1977,Male,Information Technlogy,Director,Jennifer Zamora,1.56,3,23/12/2011,,0
+645837445,"Texas, Estados Unidos",17/6/1995,Female,Production       ,Technician I,Amy Dunn,1.75,5,7/03/2016,,0
+646492184,"California, Estados Unidos",16/12/1954,Female,Production       ,Technician II,Michael Albert,1.83,4,27/11/2007,19/03/2008,1
+646649735,"California, Estados Unidos",26/1/1963,Female,Executive Office,Director,Board of Directors,1.87,3,21/07/2008,7/07/2015,1
+647467361,"Massachusetts, Estados Unidos",26/9/1966,Female,Production       ,Technician I,Elijiah Gray,1.68,3,29/12/2015,,0
+647829934,"Massachusetts, Estados Unidos",6/11/1959,Female,Admin Offices,Administrative I,Brandon R. LeBlanc,1.74,4,20/10/2002,,0
+649242583,"California, Estados Unidos",31/1/1975,Female,Admin Offices,Administrative I,Brandon R. LeBlanc,1.74,4,18/01/2000,,0
+652939181,"California, Estados Unidos",4/6/1994,Female,Production       ,Technician I,Elijiah Gray,1.73,4,16/11/2013,,0
+655226587,"Texas, Estados Unidos",31/1/1995,Female,Production       ,Technician I,Brannon Miller,1.77,2,14/04/2020,5/09/2020,1
+655692293,"California, Estados Unidos",14/2/1963,Male,Executive Office,Director,Board of Directors,1.54,2,27/09/2010,,0
+656453129,"California, Estados Unidos",5/6/1986,Female,Software Engineering,Engineer II,Alex Sweetwater,1.68,4,13/06/2007,,0
+661948364,"California, Estados Unidos",4/1/1964,Female,Production       ,Technician II,Elijiah Gray,1.62,1,25/11/2015,,0
+664780767,"California, Estados Unidos",8/5/1990,Male,Information Technlogy,Engineer I,Eric Dougall,1.88,4,22/11/2014,,0
+666505889,"Texas, Estados Unidos",30/3/1974,Male,Information Technlogy,Engineer I,Peter Monroe,1.71,4,5/10/1999,,0
+667221042,"Texas, Estados Unidos",4/8/1972,Female,Production       ,Technician I,Brannon Miller,1.77,2,10/04/1999,,0
+668671719,"Texas, Estados Unidos",4/4/1974,Female,Production       ,Technician II,Webster Butler,1.8,4,13/06/2011,,0
+670287408,"Texas, Estados Unidos",28/2/1971,Female,Information Technlogy,Engineer I,Simon Roup,1.8,4,25/08/2003,,0
+672182132,"California, Estados Unidos",14/2/1987,Female,Admin Offices,Administrative II,Elijiah Gray,1.6,3,3/06/2006,9/12/2010,1
+675300993,"Massachusetts, Estados Unidos",5/4/1978,Male,Production       ,Technician I,Kelley Spirea,1.66,4,29/01/2019,12/08/2020,1
+675330401,"Texas, Estados Unidos",28/9/1974,Male,Production       ,Technician II,Brannon Miller,1.72,5,24/08/1996,,0
+676567411,"Tennessee, Estados Unidos",1/9/1974,Male,Sales,Engineer II,John Smith,1.9,1,26/09/2019,2/09/2020,1
+676966137,"Massachusetts, Estados Unidos",24/5/1956,Female,Information Technlogy,Engineer I,Simon Roup,1.85,1,12/02/1999,10/05/2005,1
+677232900,"California, Estados Unidos",26/10/1963,Female,Production       ,Technician I,Brannon Miller,1.64,1,22/08/2001,10/06/2012,1
+677816411,"Texas, Estados Unidos",2/12/1960,Male,Production       ,Manager,Debra Houlihan,1.64,3,9/12/2014,16/05/2015,1
+681234397,"Texas, Estados Unidos",13/11/1990,Female,Admin Offices,Manager,David Stanley,1.69,1,18/06/2009,2/03/2011,1
+682788944,"Texas, Estados Unidos",21/5/1982,Female,Admin Offices,Administrative II,David Stanley,1.8,4,12/09/2005,,0
+685549680,"Texas, Estados Unidos",18/8/1979,Male,Admin Offices,Administrative II,Elijiah Gray,1.62,1,14/07/2008,,0
+685916108,"Texas, Estados Unidos",18/3/1972,Male,Information Technlogy,Engineer I,Simon Roup,1.93,1,8/02/1998,,0
+686592186,"Texas, Estados Unidos",22/11/1983,Female,Sales,Engineer I,John Smith,1.57,1,10/01/2018,,0
+688187890,"Texas, Estados Unidos",21/9/1984,Female,Software Engineering,Engineer II,Alex Sweetwater,1.64,5,5/01/2008,26/10/2020,1
+688466884,"Texas, Estados Unidos",25/8/1988,Female,Production       ,Technician I,Amy Dunn,1.65,5,8/08/2018,26/01/2019,1
+692143846,"Texas, Estados Unidos",7/12/1965,Female,Software Engineering,Engineer I,Alex Sweetwater,1.73,1,11/02/2002,16/07/2019,1
+695729686,"Massachusetts, Estados Unidos",18/9/1976,Male,Admin Offices,Administrative II,Brandon R. LeBlanc,1.7,2,21/11/2011,,0
+696973950,"Texas, Estados Unidos",20/11/1992,Female,Software Engineering,Engineer I,Alex Sweetwater,1.71,2,22/04/2014,22/10/2015,1
+698303577,"Massachusetts, Estados Unidos",18/5/1993,Female,Admin Offices,Administrative I,Brandon R. LeBlanc,1.73,1,21/11/2012,26/02/2014,1
+698503832,"California, Estados Unidos",26/9/1993,Female,Production       ,Technician I,Elijiah Gray,1.68,3,25/08/2014,,0
+699675300,"Texas, Estados Unidos",29/5/1976,Male,Sales,Engineer I,Lynn Daneault,1.54,5,10/03/2001,,0
+699884249,"Texas, Estados Unidos",20/11/1982,Female,Sales,Engineer II,Lynn Daneault,1.91,1,22/01/2016,18/06/2017,1
+701474430,"California, Estados Unidos",17/6/1969,Female,Software Engineering,Engineer II,Alex Sweetwater,1.69,3,16/08/2018,,0
+704341365,"Massachusetts, Estados Unidos",28/7/1988,Female,Production       ,Technician I,Brannon Miller,1.68,5,1/06/2012,,0
+705527347,"Texas, Estados Unidos",1/8/1991,Male,Production       ,Technician I,Elijiah Gray,1.7,4,13/04/2013,15/10/2013,1
+715824529,"Texas, Estados Unidos",17/10/1994,Male,Production       ,Technician I,Amy Dunn,1.7,1,8/02/2018,16/10/2018,1
+715959675,"Massachusetts, Estados Unidos",9/10/1973,Male,Production       ,Manager,Janet King,1.79,2,26/12/2020,30/12/2020,1
+718218570,"Massachusetts, Estados Unidos",15/3/1970,Male,Production       ,Technician I,Brannon Miller,1.66,1,13/05/2010,,0
+718782259,"Massachusetts, Estados Unidos",22/2/1982,Male,Production       ,Technician I,Brannon Miller,1.72,3,2/07/2016,,0
+719041780,"Texas, Estados Unidos",18/12/1973,Male,Information Technlogy,Engineer I,Peter Monroe,1.77,3,7/11/2007,,0
+722721355,"Massachusetts, Estados Unidos",22/1/1973,Female,Production       ,Technician I,Brannon Miller,1.78,5,16/04/2018,,0
+723251968,"Massachusetts, Estados Unidos",28/11/1993,Female,Admin Offices,Administrative I,Elijiah Gray,1.63,3,27/09/2013,,0
+734502361,"Massachusetts, Estados Unidos",8/10/1967,Female,Production       ,Technician I,Elijiah Gray,1.73,4,5/07/2013,,0
+735426773,"Texas, Estados Unidos",24/6/1959,Female,Information Technlogy,Engineer I,Simon Roup,1.81,4,1/07/2012,,0
+735708974,"Massachusetts, Estados Unidos",21/10/1995,Female,Production       ,Technician II,Amy Dunn,1.62,4,28/02/2015,,0
+742342647,"California, Estados Unidos",4/3/1977,Male,Information Technlogy,Manager,Janet King,1.58,4,21/11/2017,,0
+745742297,"Texas, Estados Unidos",21/5/1996,Female,Admin Offices,Administrative I,David Stanley,1.84,1,2/12/2014,26/07/2015,1
+745950179,"Massachusetts, Estados Unidos",6/7/1986,Female,Information Technlogy,Engineer I,Peter Monroe,1.89,2,18/08/2013,,0
+746765675,"Massachusetts, Estados Unidos",17/5/1992,Female,Production       ,Technician I,Brannon Miller,1.68,5,25/04/2011,,0
+747638661,"Texas, Estados Unidos",25/3/1978,Female,Production       ,Technician II,Amy Dunn,1.55,4,10/04/2014,,0
+748176819,"Massachusetts, Estados Unidos",22/10/1982,Female,Information Technlogy,Engineer I,Eric Dougall,1.91,3,5/10/2016,,0
+748828225,"Texas, Estados Unidos",31/1/1993,Female,Production       ,Technician II,Webster Butler,1.85,5,31/12/2013,,0
+749216860,"Texas, Estados Unidos",24/8/1996,Male,Information Technlogy,Engineer I,Simon Roup,1.93,1,17/11/2015,,0
+749295478,"California, Estados Unidos",20/9/1968,Male,Executive Office,Director,Board of Directors,1.52,3,15/06/2014,,0
+749342629,"Texas, Estados Unidos",21/12/1990,Male,Information Technlogy,Engineer I,Eric Dougall,1.88,4,7/06/2014,7/07/2016,1
+750901765,"Massachusetts, Estados Unidos",12/3/1977,Female,Production       ,Technician I,Brannon Miller,1.6,1,20/11/2004,,0
+753167374,"Massachusetts, Estados Unidos",18/12/1972,Female,Software Engineering,Engineer I,Alex Sweetwater,1.7,1,13/01/2012,,0
+756882779,"Massachusetts, Estados Unidos",8/8/1975,Male,Production       ,Technician II,Kelley Spirea,1.65,5,1/06/2011,,0
+758819710,"Texas, Estados Unidos",1/2/1994,Male,Admin Offices,Administrative I,David Stanley,1.82,1,10/01/2015,18/03/2017,1
+763679651,"Massachusetts, Estados Unidos",19/9/1990,Male,Information Technlogy,Engineer I,Peter Monroe,1.71,4,12/01/2014,,0
+764392106,"Texas, Estados Unidos",23/12/1976,Female,Software Engineering,Engineer I,Alex Sweetwater,1.65,5,16/03/2020,,0
+767760053,"Texas, Estados Unidos",19/8/1978,Male,Admin Offices,Administrative I,David Stanley,1.82,1,13/03/2004,,0
+769601885,"California, Estados Unidos",13/3/1990,Male,Production       ,Technician I,Kelley Spirea,1.66,4,21/07/2017,4/06/2018,1
+771142522,"California, Estados Unidos",16/11/1976,Male,Production       ,Technician II,Amy Dunn,1.86,1,16/10/2006,,0
+774128643,"Texas, Estados Unidos",11/3/1970,Female,Production       ,Technician II,Kelley Spirea,1.57,3,21/12/2008,12/07/2011,1
+775822739,"California, Estados Unidos",14/9/1979,Male,Information Technlogy,Engineer I,Simon Roup,1.79,4,5/10/2005,,0
+776601644,"Massachusetts, Estados Unidos",16/2/1970,Female,Production       ,Technician II,Brannon Miller,1.92,5,7/08/2019,22/10/2020,1
+777839093,"California, Estados Unidos",6/10/1993,Female,Admin Offices,Administrative I,Elijiah Gray,1.63,3,23/09/2013,,0
+778145763,"Massachusetts, Estados Unidos",22/1/1960,Female,Production       ,Technician II,Elijiah Gray,1.58,3,11/03/2010,,0
+779182262,"Texas, Estados Unidos",8/9/1979,Female,Sales,Engineer II,Lynn Daneault,1.84,2,22/08/2020,,0
+783111293,"Texas, Estados Unidos",30/4/1976,Male,Information Technlogy,Engineer I,Eric Dougall,1.88,4,16/05/2010,,0
+785175207,"Texas, Estados Unidos",16/3/1961,Female,Executive Office,Director,Board of Directors,1.53,3,21/06/1986,,0
+790671540,"California, Estados Unidos",19/3/1978,Male,Production       ,Technician II,Amy Dunn,1.95,2,15/09/2006,,0
+791981633,"Texas, Estados Unidos",2/7/1961,Female,Production       ,Technician I,Brannon Miller,1.78,5,18/10/2018,,0
+792248980,"Texas, Estados Unidos",8/4/1975,Female,Production       ,Technician II,Webster Butler,1.85,5,15/03/2012,11/09/2017,1
+793269391,"Texas, Estados Unidos",3/3/1992,Female,Sales,Engineer II,Lynn Daneault,1.91,1,22/09/2010,,0
+793655811,"California, Estados Unidos",11/4/1961,Male,Production       ,Technician II,Kissy Sullivan,1.87,2,17/04/2007,,0
+794831091,"Massachusetts, Estados Unidos",1/10/1956,Female,Production       ,Technician II,Elijiah Gray,1.61,2,4/04/2014,,0
+798389345,"Texas, Estados Unidos",3/6/1979,Female,Production       ,Technician II,Elijiah Gray,1.62,1,25/09/2002,7/04/2004,1
+802437068,"Texas, Estados Unidos",8/9/1977,Female,Production       ,Technician II,Brannon Miller,1.63,4,23/06/2015,18/12/2017,1
+807970275,"Massachusetts, Estados Unidos",27/9/1996,Male,Production       ,Technician I,Amy Dunn,1.74,4,20/08/2015,19/08/2017,1
+810281633,"Florida, Estados Unidos",19/2/1992,Female,Software Engineering,Engineer I,Alex Sweetwater,1.71,2,25/05/2018,,0
+811259191,"Texas, Estados Unidos",19/6/1974,Male,Information Technlogy,Engineer I,Simon Roup,1.79,4,11/03/2008,9/03/2010,1
+811482453,"Texas, Estados Unidos",13/7/1979,Male,Admin Offices,Administrative I,Brandon R. LeBlanc,1.78,5,2/08/2002,,0
+811537393,"Texas, Estados Unidos",21/5/1978,Male,Information Technlogy,Engineer I,Simon Roup,1.72,4,26/01/2005,,0
+814831680,"Texas, Estados Unidos",28/11/1958,Female,Information Technlogy,Engineer I,Peter Monroe,1.74,5,11/06/1999,7/01/2020,1
+817783652,"Massachusetts, Estados Unidos",15/12/1961,Male,Production       ,Technician II,Kelley Spirea,1.65,5,2/01/2010,1/06/2013,1
+818471726,"California, Estados Unidos",21/7/1987,Male,Production       ,Technician I,Elijiah Gray,1.7,4,19/12/2005,,0
+819560521,"California, Estados Unidos",1/10/1981,Male,Admin Offices,Administrative I,Elijiah Gray,1.68,2,13/02/2004,,0
+819628965,"California, Estados Unidos",5/3/1991,Female,Production       ,Technician I,Kelley Spirea,1.69,3,15/06/2013,,0
+824161023,"Texas, Estados Unidos",14/5/1988,Female,Production       ,Technician I,Brannon Miller,1.64,1,5/09/2014,16/07/2016,1
+826192905,"California, Estados Unidos",10/5/1995,Female,Production       ,Technician II,Amy Dunn,1.9,4,6/02/2018,,0
+827848613,"Texas, Estados Unidos",28/2/1986,Female,Software Engineering,Engineer I,Alex Sweetwater,1.71,2,13/08/2008,,0
+828255868,"Texas, Estados Unidos",4/7/1992,Male,Admin Offices,Manager,Debra Houlihan,1.53,1,10/06/2012,11/12/2015,1
+828979693,"Massachusetts, Estados Unidos",2/10/1983,Male,Information Technlogy,Engineer II,Peter Monroe,1.68,1,23/06/2002,,0
+830016512,"California, Estados Unidos",24/2/1983,Female,Production       ,Technician I,Amy Dunn,1.58,1,14/12/2013,14/07/2014,1
+830157401,"Massachusetts, Estados Unidos",30/10/1993,Female,Admin Offices,Administrative I,Elijiah Gray,1.66,3,1/04/2013,,0
+830663101,"Texas, Estados Unidos",17/4/1970,Male,Sales,Director,Janet King,1.83,5,29/01/2002,,0
+834928555,"Massachusetts, Estados Unidos",29/4/1990,Male,Production       ,Technician I,Brannon Miller,1.73,5,6/04/2017,,0
+835442895,"California, Estados Unidos",15/3/1996,Male,Information Technlogy,Engineer II,Simon Roup,1.6,1,10/08/2020,,0
+837620898,"Texas, Estados Unidos",16/3/1970,Female,Software Engineering,Engineer I,Alex Sweetwater,1.73,1,1/05/2016,,0
+838519472,"Nevada, Estados Unidos",10/5/1980,Male,Admin Offices,Manager,Janet King,1.59,1,11/03/2012,,0
+839617149,"California, Estados Unidos",23/6/1986,Female,Information Technlogy,Engineer II,Peter Monroe,1.67,1,19/02/2008,,0
+839644578,"California, Estados Unidos",20/12/1977,Male,Software Engineering,Engineer I,Alex Sweetwater,1.76,5,2/09/2020,,0
+840680706,"Massachusetts, Estados Unidos",24/4/1994,Female,Production       ,Technician I,Amy Dunn,1.8,1,28/07/2016,,0
+842833054,"Massachusetts, Estados Unidos",4/9/1969,Male,Production       ,Technician II,Kissy Sullivan,1.87,2,20/08/2006,,0
+847687968,"California, Estados Unidos",30/11/1976,Male,Production       ,Technician II,Amy Dunn,1.94,5,20/01/1998,,0
+848654592,"Texas, Estados Unidos",14/11/1991,Female,Production       ,Technician I,Brannon Miller,1.77,2,24/07/2019,,0
+850744164,"Massachusetts, Estados Unidos",26/7/1968,Male,Admin Offices,Administrative I,Brandon R. LeBlanc,1.78,5,14/04/1992,,0
+850863702,"California, Estados Unidos",2/7/1983,Female,Admin Offices,Administrative II,David Stanley,1.8,4,7/03/2015,23/02/2019,1
+852970744,"Texas, Estados Unidos",16/6/1977,Male,Admin Offices,Administrative I,Brandon R. LeBlanc,1.78,5,20/05/2013,,0
+854571044,"California, Estados Unidos",2/5/1967,Female,Production       ,Technician I,Brannon Miller,1.59,5,6/05/2013,,0
+855355916,"Texas, Estados Unidos",18/3/1990,Female,Production       ,Technician II,Webster Butler,1.82,2,21/07/2009,18/11/2015,1
+855602477,"Massachusetts, Estados Unidos",15/12/1992,Male,Information Technlogy,Engineer I,Simon Roup,1.72,4,19/02/2014,,0
+856268569,"California, Estados Unidos",17/3/1984,Male,Admin Offices,Administrative I,Elijiah Gray,1.64,3,5/10/2006,,0
+859078798,"Tennessee, Estados Unidos",19/7/1994,Male,Software Engineering     ,Manager,Janet King,1.77,3,30/06/2019,,0
+861526415,"Massachusetts, Estados Unidos",13/2/1980,Female,Admin Offices,Manager,Elijiah Gray,1.55,1,2/01/2016,,0
+861626759,"Texas, Estados Unidos",24/12/1975,Female,Software Engineering,Engineer II,Alex Sweetwater,1.64,5,20/05/2015,,0
+863014127,"Texas, Estados Unidos",15/6/1960,Male,Sales,Director,Janet King,1.83,5,13/09/2003,,0
+867982999,"Massachusetts, Estados Unidos",19/11/1962,Male,Production       ,Technician I,Amy Dunn,1.7,1,1/10/2015,,0
+868094607,"Texas, Estados Unidos",4/7/1989,Male,Sales,Director,Jennifer Zamora,1.81,4,31/12/2011,,0
+868152075,"Texas, Estados Unidos",1/5/1995,Male,Admin Offices,Administrative I,Elijiah Gray,1.68,2,14/08/2015,,0
+870828473,"Texas, Estados Unidos",11/11/1974,Male,Sales,Engineer II,Lynn Daneault,1.88,1,28/05/2000,13/06/2009,1
+871906937,"Texas, Estados Unidos",7/5/1974,Female,Information Technlogy,Engineer I,Simon Roup,1.83,4,3/05/2005,,0
+872017078,"Massachusetts, Estados Unidos",20/5/1981,Female,Production       ,Technician I,Brannon Miller,1.64,1,7/11/2014,,0
+872424655,"Massachusetts, Estados Unidos",17/1/1989,Male,Information Technlogy,Engineer I,Simon Roup,1.78,2,23/09/2009,25/04/2016,1
+872727653,"Ohio, Estados Unidos",7/1/1972,Female,Admin Offices,Administrative II,Elijiah Gray,1.6,3,26/09/2009,,0
+875442428,"Texas, Estados Unidos",9/10/1959,Male,Production       ,Technician II,Kissy Sullivan,1.87,2,19/11/2005,18/10/2013,1
+876926198,"Massachusetts, Estados Unidos",30/1/1985,Female,Information Technlogy,Engineer II,Peter Monroe,1.66,3,18/01/2004,,0
+879111676,"Massachusetts, Estados Unidos",30/7/1974,Female,Production       ,Technician I,Amy Dunn,1.75,5,17/12/2019,3/04/2020,1
+880327769,"Florida, Estados Unidos",4/2/1981,Female,Admin Offices,Administrative II,Elijiah Gray,1.51,3,29/04/2004,1/02/2013,1
+882375869,"California, Estados Unidos",22/2/1966,Male,Information Technlogy,Director,Jennifer Zamora,1.56,3,24/08/2014,14/07/2015,1
+882541473,"California, Estados Unidos",21/6/1978,Male,Admin Offices,Administrative II,Brandon R. LeBlanc,1.7,2,3/05/1998,,0
+882670992,"California, Estados Unidos",28/1/1979,Male,Information Technlogy,Director,Jennifer Zamora,1.56,3,11/08/2013,16/03/2018,1
+883955052,"Massachusetts, Estados Unidos",27/6/1962,Female,Information Technlogy,Engineer I,Eric Dougall,1.9,3,22/07/2002,,0
+884634197,"Massachusetts, Estados Unidos",12/6/1988,Male,Software Engineering,Engineer II,Alex Sweetwater,1.72,3,14/06/2008,16/07/2008,1
+887848037,"Massachusetts, Estados Unidos",25/9/1993,Female,Production       ,Technician I,Kelley Spirea,1.69,3,24/12/2017,,0
+892648433,"Massachusetts, Estados Unidos",20/9/1971,Male,Production       ,Technician I,Brannon Miller,1.72,3,24/01/2002,,0
+892940096,"California, Estados Unidos",21/6/1985,Female,Production       ,Technician II,Brannon Miller,1.92,5,28/07/2015,,0
+894071338,"Texas, Estados Unidos",11/12/1960,Male,Production       ,Technician II,Amy Dunn,1.93,1,11/11/2015,,0
+897372343,"Texas, Estados Unidos",10/4/1968,Female,Production       ,Technician I,Amy Dunn,1.8,1,5/10/2016,,0
+897609237,"Massachusetts, Estados Unidos",28/5/1980,Female,Admin Offices,Administrative II,Brandon R. LeBlanc,1.72,5,14/10/2010,,0
+899509294,"Massachusetts, Estados Unidos",26/2/1960,Female,Production       ,Technician II,Amy Dunn,1.62,4,23/11/2003,,0
+900128599,"California, Estados Unidos",13/3/1994,Male,Information Technlogy,Engineer I,Eric Dougall,1.88,4,13/03/2014,,0
+900166638,"Massachusetts, Estados Unidos",5/6/1977,Male,Production       ,Technician I,Brannon Miller,1.66,1,13/12/2001,23/02/2019,1
+900742062,"Texas, Estados Unidos",14/5/1977,Male,Software Engineering,Engineer II,Alex Sweetwater,1.62,5,28/07/2003,,0
+901495355,"Massachusetts, Estados Unidos",30/10/1979,Female,Production       ,Technician I,Amy Dunn,1.75,5,10/01/2009,,0
+902737249,"Massachusetts, Estados Unidos",2/7/1985,Female,Production       ,Technician II,Kelley Spirea,1.55,4,30/11/2014,26/07/2018,1
+903054708,"California, Estados Unidos",8/1/1971,Male,Admin Offices,Administrative II,Elijiah Gray,1.62,1,23/09/1991,,0
+906468559,"Massachusetts, Estados Unidos",9/1/1961,Female,Admin Offices,Administrative I,Brandon R. LeBlanc,1.79,3,6/03/2009,9/11/2010,1
+909705767,"California, Estados Unidos",2/12/1978,Female,Information Technlogy,Engineer I,Eric Dougall,1.9,3,11/02/2000,,0
+911275099,"California, Estados Unidos",5/10/1967,Female,Production       ,Manager,Janet King,1.74,1,24/08/2005,,0
+911481166,"Texas, Estados Unidos",4/5/1989,Female,Production       ,Technician I,Amy Dunn,1.8,1,13/01/2010,,0
+916025104,"California, Estados Unidos",5/5/1984,Female,Software Engineering,Engineer II,Alex Sweetwater,1.59,2,10/07/2003,,0
+920243476,"Florida, Estados Unidos",4/11/1955,Female,Sales,Engineer II,Lynn Daneault,1.84,2,21/02/1975,,0
+920366039,"Oregon, Estados Unidos",6/11/1962,Male,Admin Offices,Administrative II,Elijiah Gray,1.58,1,30/03/2009,16/09/2018,1
+922823825,"Texas, Estados Unidos",3/3/1986,Male,Sales,Engineer II,John Smith,1.9,1,18/06/2010,,0
+923934394,"Massachusetts, Estados Unidos",6/3/1986,Female,Production       ,Technician I,Amy Dunn,1.76,1,7/10/2009,,0
+924278696,"Massachusetts, Estados Unidos",3/3/1977,Female,Production       ,Manager,Janet King,1.74,1,17/02/2001,,0
+926292998,"California, Estados Unidos",28/3/1958,Male,Production       ,Technician II,Brannon Miller,1.72,5,5/07/2019,,0
+926690368,"Massachusetts, Estados Unidos",15/2/1982,Male,Production       ,Technician I,Kelley Spirea,1.66,4,21/12/2004,,0
+927016399,"Massachusetts, Estados Unidos",13/8/1973,Male,Production       ,Technician II,Brannon Miller,1.72,5,11/08/2001,5/08/2008,1
+929913576,"Massachusetts, Estados Unidos",29/4/1955,Female,Production       ,Technician II,Elijiah Gray,1.59,4,17/02/2008,,0
+930692863,"Texas, Estados Unidos",30/1/1971,Female,Admin Offices,Administrative I,Elijiah Gray,1.67,5,18/02/2013,21/07/2013,1
+937146753,"Massachusetts, Estados Unidos",10/1/1991,Female,Production       ,Technician I,Brannon Miller,1.59,5,9/08/2013,,0
+939088980,"Massachusetts, Estados Unidos",9/7/1985,Female,Admin Offices,Administrative I,Brandon R. LeBlanc,1.73,1,3/01/2009,19/07/2018,1
+942902222,"California, Estados Unidos",1/5/1961,Male,Information Technlogy,Engineer I,Simon Roup,1.87,1,2/09/2010,29/07/2015,1
+944088285,"Massachusetts, Estados Unidos",31/8/1956,Female,Information Technlogy,Engineer I,Simon Roup,1.7,4,2/05/2011,27/12/2018,1
+944671748,"Texas, Estados Unidos",11/6/1988,Female,Software Engineering,Engineer II,Alex Sweetwater,1.61,3,6/07/2011,,0
+944936913,"California, Estados Unidos",6/12/1974,Male,Information Technlogy,Manager,Jennifer Zamora,1.59,3,21/07/2010,1/05/2014,1
+947595633,"California, Estados Unidos",25/6/1975,Female,Admin Offices,Administrative II,Elijiah Gray,1.56,2,22/01/2005,,0
+948768525,"Massachusetts, Estados Unidos",23/11/1992,Female,Production       ,Technician I,Michael Albert,1.89,4,28/06/2014,17/02/2015,1
+950292244,"Massachusetts, Estados Unidos",23/11/1990,Female,Admin Offices,Administrative II,Brandon R. LeBlanc,1.72,5,24/04/2011,7/01/2013,1
+950548340,"Texas, Estados Unidos",16/3/1958,Male,Production       ,Manager,Janet King,1.79,2,15/10/1998,,0
+950978615,"Massachusetts, Estados Unidos",15/10/1959,Male,Admin Offices,Administrative II,David Stanley,1.65,2,26/04/2016,,0
+951421256,"Massachusetts, Estados Unidos",26/12/1971,Female,Executive Office,Director,Board of Directors,1.86,1,9/10/2018,16/09/2020,1
+955688695,"Texas, Estados Unidos",4/2/1992,Female,Sales,Engineer I,John Smith,1.55,4,20/11/2012,,0
+956715202,"Massachusetts, Estados Unidos",6/8/1981,Male,Production       ,Technician I,Brannon Miller,1.73,5,23/12/2019,,0
+958784222,"Massachusetts, Estados Unidos",4/3/1988,Female,Production       ,Director,Janet King,1.56,1,20/04/2010,,0
+960707536,"Texas, Estados Unidos",7/3/1993,Male,Admin Offices,Manager,Debra Houlihan,1.53,1,27/06/2017,,0
+961206583,"Massachusetts, Estados Unidos",16/2/1965,Female,Production       ,Technician II,Elijiah Gray,1.62,1,1/11/2014,,0
+961802316,"Massachusetts, Estados Unidos",3/2/1959,Male,Production       ,Technician I,Brannon Miller,1.73,5,18/08/2008,,0
+962526614,"California, Estados Unidos",8/9/1985,Female,Information Technlogy,Engineer II,Simon Roup,1.62,1,19/02/2004,,0
+963315562,"Texas, Estados Unidos",13/12/1977,Male,Production       ,Technician I,Elijiah Gray,1.7,4,27/08/2006,,0
+964679362,"California, Estados Unidos",3/8/1989,Female,Production       ,Technician I,Brannon Miller,1.61,2,7/01/2013,,0
+965015541,"Massachusetts, Estados Unidos",24/8/1981,Female,Production       ,Technician II,Webster Butler,1.82,2,9/12/2007,,0
+967856987,"Massachusetts, Estados Unidos",27/2/1966,Female,Production       ,Technician I,Brannon Miller,1.61,2,18/07/2010,,0
+968109859,"Massachusetts, Estados Unidos",30/3/1994,Female,Admin Offices,Administrative I,Brandon R. LeBlanc,1.74,4,17/09/2017,,0
+968488627,"California, Estados Unidos",6/1/1963,Female,Admin Offices,Administrative I,Elijiah Gray,1.66,3,4/11/1999,,0
+969957972,"California, Estados Unidos",4/12/1990,Female,Information Technlogy,Engineer I,Eric Dougall,1.86,4,13/06/2012,23/07/2020,1
+972004936,"Texas, Estados Unidos",26/1/1956,Male,Admin Offices,Administrative II,Brandon R. LeBlanc,1.7,2,11/02/2009,12/10/2016,1
+972450422,"Massachusetts, Estados Unidos",29/8/1996,Female,Production       ,Technician I,Amy Dunn,1.8,1,23/05/2019,6/10/2020,1
+975669641,"California, Estados Unidos",19/11/1965,Male,Production       ,Technician II,Amy Dunn,1.95,2,9/11/2004,,0
+975898688,"California, Estados Unidos",5/3/1975,Male,Information Technlogy,Engineer II,Simon Roup,1.6,1,28/03/2002,,0
+976133003,"Texas, Estados Unidos",30/5/1987,Male,Production       ,Technician II,Kelley Spirea,1.6,1,17/10/2016,,0
+976168399,"Massachusetts, Estados Unidos",12/6/1972,Female,Admin Offices,Administrative I,Brandon R. LeBlanc,1.79,3,7/11/1999,,0
+976224802,"Massachusetts, Estados Unidos",17/9/1995,Female,Production       ,Technician I,Kelley Spirea,1.69,3,7/01/2019,,0
+977392081,"Massachusetts, Estados Unidos",19/3/1963,Male,Information Technlogy,Engineer I,Simon Roup,1.78,2,7/11/1997,,0
+978913270,"Texas, Estados Unidos",5/10/1961,Female,Production       ,Technician I,Brannon Miller,1.78,5,21/10/2010,,0
+981073462,"Massachusetts, Estados Unidos",31/8/1964,Female,Information Technlogy,Engineer II,Simon Roup,1.62,1,16/06/2016,,0
+981750538,"Texas, Estados Unidos",10/8/1978,Female,Production       ,Technician II,Kelley Spirea,1.57,3,12/03/2007,,0
+981777332,"California, Estados Unidos",29/10/1972,Male,Software Engineering,Engineer I,Alex Sweetwater,1.76,5,5/01/2005,,0
+982964251,"Massachusetts, Estados Unidos",25/8/1990,Male,Production       ,Manager,Jennifer Zamora,1.54,3,6/12/2009,11/05/2010,1
+983191924,"Massachusetts, Estados Unidos",24/4/1977,Female,Production       ,Technician II,Webster Butler,1.8,4,23/01/2016,,0
+983577857,"Massachusetts, Estados Unidos",16/9/1964,Female,Software Engineering,Engineer I,Alex Sweetwater,1.75,4,28/05/2007,,0
+983842616,"Massachusetts, Estados Unidos",8/6/1981,Female,Production       ,Technician I,Kelley Spirea,1.69,3,22/09/2009,18/09/2012,1
+986717707,"Texas, Estados Unidos",9/1/1976,Female,Software Engineering,Engineer I,Alex Sweetwater,1.73,1,31/03/1999,,0
+989685509,"Massachusetts, Estados Unidos",6/2/1967,Male,Information Technlogy,Engineer I,Simon Roup,1.78,2,7/08/2017,,0
+992582163,"Texas, Estados Unidos",11/4/1988,Female,Software Engineering,Engineer II,Alex Sweetwater,1.61,3,1/02/2012,,0
+995563209,"Texas, Estados Unidos",30/9/1967,Female,Production       ,Technician II,Elijiah Gray,1.62,1,8/12/1999,,0
+996416051,"Texas, Estados Unidos",7/10/1986,Male,Production       ,Manager,Debra Houlihan,1.64,3,8/08/2005,,0
+996554152,"Massachusetts, Estados Unidos",11/1/1979,Male,Production       ,Technician II,Michael Albert,1.81,4,12/05/1997,,0
+996727511,"Massachusetts, Estados Unidos",6/11/1974,Male,Sales,Director,Janet King,1.83,5,17/04/1996,14/12/1997,1
+997573892,"Texas, Estados Unidos",2/4/1984,Female,Information Technlogy,Engineer I,Peter Monroe,1.52,5,10/06/2011,2/08/2011,1
+997737516,"Texas, Estados Unidos",8/9/1970,Male,Production       ,Technician II,Amy Dunn,1.93,1,21/07/2012,,0
+997940691,"Texas, Estados Unidos",18/11/1966,Male,Information Technlogy,Engineer I,Peter Monroe,1.84,5,14/10/2020,,0
+1000022365,"Texas, Estados Unidos",24/4/1983,Female,Information Technlogy,Engineer I,Peter Monroe,1.52,5,9/05/2003,,0
+1001413155,"California, Estados Unidos",8/2/1987,Male,Production       ,Technician I,Elijiah Gray,1.67,5,18/02/2005,,0
+1001527490,"Texas, Estados Unidos",1/10/1996,Female,Software Engineering,Engineer II,Alex Sweetwater,1.6,5,13/05/2020,,0
+1003249356,"California, Estados Unidos",6/5/1981,Male,Information Technlogy,Manager,Janet King,1.58,4,26/08/2005,,0
+1006127911,"Texas, Estados Unidos",23/8/1995,Female,Production       ,Technician I,Brannon Miller,1.67,4,16/05/2015,,0
+1006435214,"California, Estados Unidos",16/4/1991,Female,Admin Offices,Administrative I,Elijiah Gray,1.66,3,29/11/2012,,0
+1006526855,"Texas, Estados Unidos",13/7/1983,Female,Software Engineering,Engineer II,Alex Sweetwater,1.67,5,22/01/2020,,0
+1009218363,"Massachusetts, Estados Unidos",10/9/1965,Male,Information Technlogy,Manager,Janet King,1.58,4,18/01/2006,19/01/2009,1
+1010140059,"Texas, Estados Unidos",2/1/1982,Male,Sales,Engineer II,John Smith,1.87,5,29/07/2005,,0
+1011502402,"California, Estados Unidos",13/11/1961,Female,Information Technlogy,Engineer I,Simon Roup,1.8,4,30/06/1999,,0
+1011989158,"Texas, Estados Unidos",17/4/1972,Male,Production       ,Technician II,Amy Dunn,1.94,5,1/05/1991,,0
+1013031484,"Massachusetts, Estados Unidos",22/7/1956,Female,Information Technlogy,Engineer I,Simon Roup,1.75,5,13/08/2015,14/09/2018,1
+1013699054,"California, Estados Unidos",12/12/1991,Female,Production       ,Technician I,Michael Albert,1.89,4,10/07/2019,,0
+1016274888,"California, Estados Unidos",17/8/1971,Female,Executive Office,Director,Board of Directors,1.51,3,18/09/2006,6/04/2015,1
+1017485444,"California, Estados Unidos",19/3/1988,Male,Information Technlogy,Manager,Jennifer Zamora,1.59,3,23/08/2008,13/07/2019,1
+1019126485,"California, Estados Unidos",3/6/1969,Female,Admin Offices,Administrative II,Elijiah Gray,1.56,2,1/10/2005,24/06/2011,1
+1020645790,"Massachusetts, Estados Unidos",10/2/1984,Female,Admin Offices,Administrative I,Brandon R. LeBlanc,1.79,3,30/03/2002,,0
+1021262625,"Massachusetts, Estados Unidos",6/5/1970,Female,Admin Offices,Administrative II,Brandon R. LeBlanc,1.72,5,13/04/2005,24/09/2013,1
+1022516663,"California, Estados Unidos",13/12/1975,Female,Production       ,Technician I,Brannon Miller,1.6,1,28/02/2012,,0
+1024393107,"Massachusetts, Estados Unidos",10/9/1982,Female,Admin Offices,Administrative II,Elijiah Gray,1.52,5,31/01/2020,,0
+1027362304,"Texas, Estados Unidos",13/12/1982,Female,Sales,Engineer I,Lynn Daneault,1.58,1,24/05/2002,,0
+1027898775,"Texas, Estados Unidos",4/7/1962,Male,Production       ,Technician I,Elijiah Gray,1.7,4,10/01/2002,,0
+1033448957,"California, Estados Unidos",7/12/1980,Male,Production       ,Technician II,Amy Dunn,1.93,1,17/04/2016,31/03/2018,1
+1033544339,"Massachusetts, Estados Unidos",2/5/1961,Male,Information Technlogy,Engineer II,Peter Monroe,1.69,3,2/11/2015,6/04/2020,1
+1033679971,"California, Estados Unidos",7/8/1969,Male,Information Technlogy,Manager,Jennifer Zamora,1.57,5,18/04/2008,9/10/2015,1
+1034021247,"Texas, Estados Unidos",1/7/1969,Male,Production       ,Technician II,Kelley Spirea,1.6,1,23/12/2009,2/10/2020,1
+1034519534,"Massachusetts, Estados Unidos",17/6/1985,Female,Executive Office,Director,Board of Directors,1.53,3,10/07/2006,10/07/2020,1
+1035105482,"California, Estados Unidos",25/4/1971,Male,Production       ,Technician II,Kelley Spirea,1.65,5,31/01/1998,,0
+1036939906,"Texas, Estados Unidos",10/6/1966,Female,Software Engineering,Engineer II,Alex Sweetwater,1.6,5,19/11/2003,,0
+1038550146,"Indiana, Estados Unidos",20/9/1988,Female,Sales,Engineer I,Lynn Daneault,1.56,5,26/05/2010,,0
+1038631902,"Texas, Estados Unidos",19/3/1957,Male,Sales,Engineer I,Lynn Daneault,1.53,4,16/10/2002,,0
+1041829740,"Texas, Estados Unidos",15/6/1979,Female,Sales,Engineer I,John Smith,1.57,1,4/12/2017,,0
+1046837849,"California, Estados Unidos",12/7/1973,Male,Executive Office,Director,Board of Directors,1.55,3,1/05/2012,,0
+1047428769,"California, Estados Unidos",5/5/1955,Female,Information Technlogy,Engineer I,Eric Dougall,1.86,4,10/01/2013,,0
+1048304079,"California, Estados Unidos",23/11/1957,Male,Information Technlogy,Engineer I,Simon Roup,1.87,1,16/08/2007,,0
+1048616459,"Texas, Estados Unidos",23/8/1990,Female,Production       ,Technician I,Amy Dunn,1.79,3,6/01/2013,,0
+1048643353,"Massachusetts, Estados Unidos",23/3/1974,Female,Production       ,Technician I,Kelley Spirea,1.69,3,7/04/2016,,0
+1049996813,"Texas, Estados Unidos",3/4/1997,Female,Sales,Engineer II,Lynn Daneault,1.84,2,28/09/2016,,0
+1051281380,"Texas, Estados Unidos",23/9/1961,Male,Sales,Engineer II,John Smith,1.86,3,21/02/2013,,0
+1052649162,"Massachusetts, Estados Unidos",18/7/1971,Male,Information Technlogy,Engineer I,Simon Roup,1.87,1,26/11/2002,,0
+1055954700,"Texas, Estados Unidos",26/10/1987,Female,Information Technlogy,Engineer I,Peter Monroe,1.52,5,19/02/2018,,0
+1057218406,"Massachusetts, Estados Unidos",18/10/1958,Male,Information Technlogy,Manager,Debra Houlihan,1.64,4,9/04/2007,,0
+1057406030,"California, Estados Unidos",28/6/1996,Female,Production       ,Technician II,Amy Dunn,1.56,1,14/12/2016,,0
+1058572722,"Texas, Estados Unidos",7/6/1962,Female,Information Technlogy,Engineer I,Peter Monroe,1.74,5,4/05/2001,,0
+1059766085,"Texas, Estados Unidos",19/12/1984,Male,Information Technlogy,Manager,Debra Houlihan,1.64,4,17/08/2004,,0
+1061527118,"California, Estados Unidos",1/11/1994,Female,Production       ,Technician II,Amy Dunn,1.56,1,10/01/2013,23/12/2015,1
+1061739412,"Texas, Estados Unidos",11/5/1966,Male,Production       ,Technician II,Amy Dunn,1.86,1,18/08/2017,,0
+1062483447,"Texas, Estados Unidos",6/5/1983,Male,Software Engineering,Engineer II,Alex Sweetwater,1.72,3,6/05/2001,26/12/2002,1
+1066225689,"California, Estados Unidos",8/2/1959,Female,Information Technlogy,Engineer I,Eric Dougall,1.91,3,6/09/2010,15/07/2015,1
+1068256175,"Texas, Estados Unidos",20/5/1991,Female,Admin Offices,Administrative I,Elijiah Gray,1.63,3,15/10/2011,,0
+1069235766,"Texas, Estados Unidos",19/12/1994,Male,Sales,Engineer II,John Smith,1.86,3,14/09/2016,1/10/2017,1
+1071378328,"Texas, Estados Unidos",10/7/1979,Female,Production       ,Technician II,Brannon Miller,1.54,2,14/09/2000,,0
+1072225740,"Texas, Estados Unidos",10/7/1996,Female,Information Technlogy,Engineer I,Peter Monroe,1.74,5,20/10/2020,,0
+1072768348,"Pennsylvania, Estados Unidos",11/5/1976,Male,Software Engineering,Engineer I,Alex Sweetwater,1.76,5,23/06/2007,,0
+1073413190,"California, Estados Unidos",20/4/1996,Male,Admin Offices,Manager,Janet King,1.59,1,24/06/2021,,0
+1075115823,"Texas, Estados Unidos",20/12/1957,Female,Production       ,Manager,Janet King,1.75,3,6/12/2015,,0
+1076776961,"Massachusetts, Estados Unidos",5/6/1991,Female,Information Technlogy,Engineer II,Simon Roup,1.61,3,13/12/2014,,0
+1077450728,"Idaho, Estados Unidos",8/8/1980,Female,Admin Offices,Administrative II,Elijiah Gray,1.52,5,13/04/2012,25/06/2017,1
+1079676088,"Texas, Estados Unidos",3/12/1989,Female,Production       ,Technician II,Kelley Spirea,1.63,1,7/11/2015,,0
+1081140849,"Texas, Estados Unidos",20/3/1973,Female,Sales,Engineer I,Lynn Daneault,1.56,5,15/09/1998,,0
+1082034373,"California, Estados Unidos",26/8/1977,Female,Admin Offices,Administrative II,Elijiah Gray,1.56,2,1/09/2002,,0
+1084331799,"Massachusetts, Estados Unidos",20/12/1977,Male,Production       ,Technician I,Kelley Spirea,1.71,5,25/04/2005,,0
+1085536138,"California, Estados Unidos",19/7/1968,Female,Admin Offices,Manager,Elijiah Gray,1.55,1,14/10/2003,5/12/2005,1
+1085642833,"Texas, Estados Unidos",5/5/1965,Male,Admin Offices,Administrative I,Brandon R. LeBlanc,1.77,5,21/01/1998,,0
+1088693250,"Massachusetts, Estados Unidos",16/3/1981,Female,Admin Offices,Administrative I,Brandon R. LeBlanc,1.79,3,5/03/2005,,0
+1089243968,"Oregon, Estados Unidos",11/8/1987,Male,Admin Offices,Administrative II,Elijiah Gray,1.58,1,30/03/2007,,0
+1089945794,"Texas, Estados Unidos",1/12/1986,Female,Software Engineering,Engineer II,Alex Sweetwater,1.67,5,5/07/2009,,0
+1091313679,"Massachusetts, Estados Unidos",24/12/1971,Male,Production       ,Technician I,Kelley Spirea,1.66,4,2/12/2006,,0
+1092560567,"Tennessee, Estados Unidos",18/6/1961,Female,Admin Offices,Administrative II,Elijiah Gray,1.57,5,28/11/2007,1/03/2018,1
+1095603605,"Texas, Estados Unidos",27/9/1995,Female,Software Engineering,Engineer II,Alex Sweetwater,1.69,3,26/04/2017,5/06/2017,1
+1096921963,"California, Estados Unidos",26/9/1986,Female,Production       ,Technician II,Brannon Miller,1.51,5,4/07/2008,,0
+1099897413,"Texas, Estados Unidos",10/9/1981,Female,Software Engineering,Engineer II,Alex Sweetwater,1.64,5,27/06/2017,,0
+1100349686,"Texas, Estados Unidos",5/2/1965,Female,Sales,Engineer I,Lynn Daneault,1.56,5,1/02/2008,,0
+1100455325,"California, Estados Unidos",2/12/1985,Female,Admin Offices,Administrative II,Brandon R. LeBlanc,1.72,5,31/08/2005,4/12/2016,1
+1100520402,"Texas, Estados Unidos",9/8/1968,Female,Production       ,Technician I,Elijiah Gray,1.68,3,7/04/2014,,0
+1104625658,"California, Estados Unidos",29/8/1954,Female,Executive Office,Director,Board of Directors,1.87,3,16/04/1978,,0
+1106160228,"California, Estados Unidos",1/4/1982,Female,Information Technlogy,Engineer I,Eric Dougall,1.91,3,3/07/2014,,0
+1108232138,"Texas, Estados Unidos",15/4/1986,Female,Information Technlogy,Engineer I,Peter Monroe,1.89,2,27/09/2006,,0
+1109101897,"Massachusetts, Estados Unidos",4/6/1970,Male,Production       ,Technician I,Brannon Miller,1.72,3,1/12/2003,5/05/2005,1
+1109560172,"Massachusetts, Estados Unidos",27/5/1975,Male,Production       ,Technician I,Brannon Miller,1.71,1,14/05/1998,25/04/2002,1
+1112390879,"Texas, Estados Unidos",6/7/1986,Male,Software Engineering,Engineer II,Alex Sweetwater,1.66,5,1/06/2018,,0
+1112523643,"Massachusetts, Estados Unidos",19/2/1984,Male,Software Engineering,Engineer II,Alex Sweetwater,1.62,5,5/01/2004,,0
+1114552427,"California, Estados Unidos",25/10/1986,Female,Production       ,Manager,Jennifer Zamora,1.53,2,25/12/2015,,0
+1115029939,"Texas, Estados Unidos",18/9/1960,Female,Software Engineering,Engineer II,Alex Sweetwater,1.59,2,5/03/2016,,0
+1115463221,"California, Estados Unidos",7/5/1969,Female,Executive Office,Director,Board of Directors,1.53,3,4/04/2001,,0
+1119670348,"Texas, Estados Unidos",16/8/1967,Male,Admin Offices,Administrative I,David Stanley,1.82,1,13/03/2006,20/01/2007,1
+1121767245,"Texas, Estados Unidos",7/4/1994,Male,Admin Offices,Administrative II,David Stanley,1.65,2,9/09/2014,12/02/2018,1
+1123163466,"Texas, Estados Unidos",1/6/1989,Male,Information Technlogy,Engineer II,Peter Monroe,1.68,1,27/01/2011,,0
+1123179207,"Massachusetts, Estados Unidos",17/5/1990,Female,Information Technlogy,Engineer I,Simon Roup,1.83,4,3/09/2010,,0
+1124340326,"Massachusetts, Estados Unidos",23/10/1995,Female,Production       ,Technician I,Amy Dunn,1.76,1,30/03/2014,17/11/2019,1
+1124622696,"Massachusetts, Estados Unidos",31/7/1956,Female,Information Technlogy,Engineer I,Simon Roup,1.85,1,7/06/2007,,0
+1126529049,"California, Estados Unidos",9/9/1972,Male,Production       ,Technician I,Amy Dunn,1.57,4,2/11/2008,,0
+1127094186,"Massachusetts, Estados Unidos",9/8/1987,Male,Production       ,Manager,Janet King,1.76,3,16/04/2013,,0
+1128360527,"Texas, Estados Unidos",16/8/1997,Female,Production       ,Technician I,Amy Dunn,1.8,1,23/10/2017,,0
+1129940180,"Massachusetts, Estados Unidos",20/4/1977,Male,Admin Offices,Administrative I,David Stanley,1.83,1,26/09/2012,,0
+1131618204,"Texas, Estados Unidos",25/2/1986,Male,Production       ,Technician II,Amy Dunn,1.93,1,12/05/2013,,0
+1131994071,"Texas, Estados Unidos",17/11/1972,Female,Sales,Engineer II,John Smith,1.52,2,20/05/2019,,0
+1132617901,"California, Estados Unidos",5/6/1973,Female,Software Engineering,Engineer I,Alex Sweetwater,1.71,2,16/07/2012,,0
+1133449557,"Texas, Estados Unidos",8/11/1969,Male,Sales,Engineer II,John Smith,1.87,5,3/04/2000,18/04/2001,1
+1133539236,"California, Estados Unidos",20/10/1980,Female,Software Engineering,Engineer I,Alex Sweetwater,1.65,5,27/10/2002,,0
+1135472213,"California, Estados Unidos",12/4/1983,Female,Software Engineering,Engineer I,Alex Sweetwater,1.75,4,4/10/2004,,0
+1135608634,"California, Estados Unidos",7/11/1972,Male,Software Engineering,Engineer I,Alex Sweetwater,1.76,5,8/01/2012,27/03/2016,1
+1137023593,"Texas, Estados Unidos",6/8/1996,Male,Software Engineering,Engineer II,Alex Sweetwater,1.63,5,31/12/2019,,0
+1137045968,"Massachusetts, Estados Unidos",14/6/1982,Female,Information Technlogy,Engineer II,Simon Roup,1.62,1,12/11/2004,,0
+1140673279,"California, Estados Unidos",6/6/1973,Female,Information Technlogy,Engineer I,Eric Dougall,1.86,4,19/11/1994,,0
+1143749667,"Texas, Estados Unidos",27/4/1996,Female,Information Technlogy,Engineer II,Peter Monroe,1.67,1,22/07/2017,,0
+1143908131,"Nevada, Estados Unidos",26/2/1992,Female,Admin Offices,Administrative II,Elijiah Gray,1.52,5,21/11/2014,,0
+1146718603,"Virginia, Estados Unidos",23/9/1983,Male,Admin Offices,Manager,Janet King,1.54,5,17/03/2016,,0
+1147656625,"Texas, Estados Unidos",23/2/1993,Male,Sales,Engineer II,John Smith,1.85,2,22/02/2012,,0
+1148332537,"Colorado, Estados Unidos",4/2/1973,Female,Admin Offices,Administrative I,Elijiah Gray,1.63,3,28/08/2012,26/02/2018,1
+1148957458,"California, Estados Unidos",15/9/1959,Male,Admin Offices,Administrative II,David Stanley,1.81,5,23/11/2013,,0
+1150148169,"Massachusetts, Estados Unidos",18/3/1986,Female,Production       ,Technician I,Elijiah Gray,1.73,4,10/06/2005,,0
+1150652315,"Texas, Estados Unidos",28/1/1997,Female,Production       ,Manager,Jennifer Zamora,1.53,2,18/03/2020,,0
+1152597534,"Massachusetts, Estados Unidos",8/8/1985,Male,Information Technlogy,Engineer I,Peter Monroe,1.71,4,15/08/2015,,0
+1152920775,"Texas, Estados Unidos",5/6/1961,Female,Production       ,Technician II,Elijiah Gray,1.61,2,20/11/2020,30/12/2020,1
+1153239359,"Texas, Estados Unidos",3/2/1961,Male,Sales,Engineer I,Lynn Daneault,1.53,4,25/11/2002,,0
+1153827106,"California, Estados Unidos",9/7/1992,Female,Software Engineering,Engineer II,Alex Sweetwater,1.6,5,15/03/2015,19/01/2016,1
+1155273507,"California, Estados Unidos",18/4/1985,Female,Sales,Engineer I,John Smith,1.57,1,3/12/2005,,0
+1156073190,"Texas, Estados Unidos",16/3/1995,Male,Sales,Engineer II,Lynn Daneault,1.88,1,24/10/2013,,0
+1157336718,"North Dakota, Estados Unidos",7/4/1962,Female,Admin Offices,Manager,Elijiah Gray,1.55,1,24/10/2007,,0
+1159221573,"Texas, Estados Unidos",21/1/1968,Female,Production       ,Technician II,Amy Dunn,1.56,1,13/06/2003,,0
+1161154839,"California, Estados Unidos",14/2/1970,Female,Production       ,Technician II,Amy Dunn,1.53,3,10/08/2003,,0
+1161873269,"Massachusetts, Estados Unidos",2/10/1989,Female,Executive Office,Director,Board of Directors,1.86,1,7/01/2013,21/10/2020,1
+1164185793,"Massachusetts, Estados Unidos",24/6/1992,Female,Production       ,Technician I,Amy Dunn,1.58,1,7/05/2014,,0
+1165734213,"California, Estados Unidos",27/4/1963,Female,Production       ,Technician II,Amy Dunn,1.53,3,3/08/2012,,0
+1168138445,"Texas, Estados Unidos",31/8/1957,Female,Information Technlogy,Engineer I,Simon Roup,1.73,1,17/09/2012,,0
+1168750603,"California, Estados Unidos",14/5/1970,Female,Production       ,Technician II,Kissy Sullivan,1.84,1,6/08/2005,,0
+1168760359,"Texas, Estados Unidos",2/5/1989,Male,Admin Offices,Administrative I,Brandon R. LeBlanc,1.78,5,29/08/2010,,0
+1170056973,"Massachusetts, Estados Unidos",19/5/1983,Male,Software Engineering,Engineer I,Alex Sweetwater,1.74,5,27/05/2001,,0
+1170647921,"Texas, Estados Unidos",1/4/1965,Female,Production       ,Technician I,Brannon Miller,1.77,2,18/05/2002,,0
+1172071152,"California, Estados Unidos",12/5/1997,Female,Executive Office,Director,Board of Directors,1.86,1,7/09/2018,,0
+1174869150,"California, Estados Unidos",26/8/1968,Male,Sales,Director,Jennifer Zamora,1.81,4,5/09/1990,,0
+1175786627,"California, Estados Unidos",6/5/1955,Male,Information Technlogy,Director,Jennifer Zamora,1.56,3,12/01/2004,,0
+1176009606,"California, Estados Unidos",24/2/1956,Female,Production       ,Technician II,Kelley Spirea,1.55,4,16/05/1975,,0
+1178458284,"Texas, Estados Unidos",6/11/1973,Female,Information Technlogy,Engineer II,Peter Monroe,1.67,1,24/05/2001,,0
+1178796600,"Massachusetts, Estados Unidos",22/11/1954,Female,Production       ,Technician II,Webster Butler,1.8,4,29/04/2019,25/09/2020,1
+1179112456,"Texas, Estados Unidos",28/7/1997,Female,Software Engineering,Engineer II,Alex Sweetwater,1.59,2,24/05/2021,,0
+1180131434,"Texas, Estados Unidos",23/11/1954,Male,Software Engineering,Engineer II,Alex Sweetwater,1.66,5,12/12/2001,,0
+1185712611,"Massachusetts, Estados Unidos",15/10/1983,Female,Production       ,Technician I,Amy Dunn,1.65,5,19/08/2002,,0
+1190535760,"Massachusetts, Estados Unidos",20/6/1985,Male,Production       ,Technician I,Brannon Miller,1.72,3,21/04/2005,,0
+1190743202,"California, Estados Unidos",9/3/1993,Female,Admin Offices,Administrative II,David Stanley,1.8,4,18/04/2013,,0
+1192930528,"Indiana, Estados Unidos",29/11/1985,Male,Admin Offices,Administrative II,Elijiah Gray,1.58,1,8/05/2014,,0
+1193028571,"Massachusetts, Estados Unidos",29/1/1971,Male,Information Technlogy,Engineer I,Simon Roup,1.76,3,1/01/2019,,0
+1193684976,"California, Estados Unidos",14/4/1995,Female,Admin Offices,Administrative I,David Stanley,1.85,4,3/09/2014,,0
+1195031608,"Massachusetts, Estados Unidos",4/7/1977,Female,Production       ,Technician II,Webster Butler,1.85,5,28/07/2007,,0
+1196081377,"Texas, Estados Unidos",11/5/1979,Female,Production       ,Technician II,Brannon Miller,1.63,4,27/07/2007,,0
+1198305587,"Texas, Estados Unidos",23/2/1974,Male,Production       ,Technician II,Kissy Sullivan,1.87,2,10/04/2004,,0
+1201232888,"Massachusetts, Estados Unidos",3/2/1974,Female,Production       ,Technician I,Brannon Miller,1.68,5,4/02/2020,14/03/2020,1
+1201619354,"Massachusetts, Estados Unidos",9/7/1991,Female,Production       ,Technician I,Brannon Miller,1.67,4,1/12/2009,,0
+1202526351,"Texas, Estados Unidos",21/9/1980,Male,Production       ,Technician II,Michael Albert,1.81,4,1/08/2001,,0
+1203191340,"Texas, Estados Unidos",19/7/1991,Female,Production       ,Technician I,Amy Dunn,1.58,1,13/12/2015,,0
+1205321964,"Texas, Estados Unidos",4/2/1983,Female,Information Technlogy,Engineer II,Peter Monroe,1.66,3,7/08/2001,,0
+1205513472,"California, Estados Unidos",20/4/1970,Male,Production       ,Technician I,Amy Dunn,1.57,4,19/09/1998,4/06/2006,1
+1206372252,"Massachusetts, Estados Unidos",10/8/1987,Male,Production       ,Technician I,Kelley Spirea,1.71,5,26/09/2006,17/12/2009,1
+1208720605,"Texas, Estados Unidos",9/4/1995,Female,Sales,Engineer II,John Smith,1.89,4,26/02/2019,7/05/2020,1
+1211125468,"Texas, Estados Unidos",21/9/1963,Male,Production       ,Manager,Debra Houlihan,1.64,3,14/01/2017,,0
+1211633877,"California, Estados Unidos",8/5/1995,Female,Software Engineering,Engineer I,Alex Sweetwater,1.75,4,6/10/2019,5/05/2020,1
+1213228633,"Massachusetts, Estados Unidos",4/2/1956,Female,Information Technlogy,Engineer I,Simon Roup,1.73,1,3/08/2008,11/01/2020,1
+1213299426,"Massachusetts, Estados Unidos",26/1/1991,Female,Production       ,Technician I,Amy Dunn,1.58,1,27/05/2013,,0
+1214535723,"Texas, Estados Unidos",12/8/1980,Female,Admin Offices,Administrative I,Brandon R. LeBlanc,1.73,1,4/05/1999,,0
+1215250478,"Texas, Estados Unidos",2/4/1956,Male,Production       ,Technician II,Kissy Sullivan,1.88,1,25/09/2004,28/01/2014,1
+1215819157,"California, Estados Unidos",9/4/1983,Male,Admin Offices,Administrative II,Elijiah Gray,1.62,1,30/05/2003,,0
+1216066274,"Massachusetts, Estados Unidos",13/8/1990,Male,Admin Offices,Administrative I,Brandon R. LeBlanc,1.76,4,4/10/2012,28/07/2018,1
+1216718714,"Massachusetts, Estados Unidos",19/11/1984,Male,Software Engineering     ,Manager,Janet King,1.77,3,12/04/2016,,0
+1216767015,"California, Estados Unidos",18/9/1976,Female,Information Technlogy,Engineer I,Simon Roup,1.85,1,31/01/2016,,0
+1220238640,"California, Estados Unidos",7/5/1997,Male,Information Technlogy,Engineer II,Simon Roup,1.63,2,26/06/2000,,0
+1220449467,"California, Estados Unidos",29/5/1986,Female,Admin Offices,Manager,David Stanley,1.69,1,1/10/2020,20/11/2020,1
+1220772743,"California, Estados Unidos",16/8/1971,Female,Production       ,Technician II,Kelley Spirea,1.63,1,6/11/2019,20/05/2020,1
+1226140874,"Texas, Estados Unidos",19/4/1997,Female,Software Engineering,Engineer I,Alex Sweetwater,1.7,1,7/02/2016,,0
+1226393517,"Massachusetts, Estados Unidos",21/10/1976,Female,Information Technlogy,Engineer I,Simon Roup,1.7,4,15/10/2012,,0
+1227207316,"Texas, Estados Unidos",13/6/1995,Female,Sales,Engineer I,Lynn Daneault,1.56,5,27/02/2016,11/11/2016,1
+1228692371,"Texas, Estados Unidos",15/4/1974,Female,Admin Offices,Manager,David Stanley,1.69,1,29/09/1993,,0
+1230367871,"Texas, Estados Unidos",10/9/1977,Male,Production       ,Technician II,Amy Dunn,1.95,2,10/03/2000,,0
+1230551117,"Pennsylvania, Estados Unidos",6/5/1966,Female,Admin Offices,Administrative II,Elijiah Gray,1.56,2,29/07/2006,6/04/2009,1
+1230696528,"California, Estados Unidos",17/11/1993,Female,Production       ,Technician II,Amy Dunn,1.53,3,25/09/2013,30/04/2018,1
+1231337378,"California, Estados Unidos",2/4/1959,Female,Production       ,Technician II,Brannon Miller,1.51,5,21/11/2010,,0
+1232883989,"California, Estados Unidos",5/9/1978,Female,Admin Offices,Administrative II,Elijiah Gray,1.51,3,10/02/1998,,0
+1233777073,"Texas, Estados Unidos",31/1/1955,Female,Admin Offices,Manager,Debra Houlihan,1.75,5,7/04/2015,,0
+1237679635,"Texas, Estados Unidos",8/7/1983,Male,Admin Offices,Administrative II,Brandon R. LeBlanc,1.7,2,23/11/2013,,0
+1237766309,"Texas, Estados Unidos",20/5/1984,Male,Sales,Engineer II,John Smith,1.9,1,26/07/2003,,0
+1240045246,"California, Estados Unidos",6/10/1975,Male,Admin Offices,Administrative II,Elijiah Gray,1.58,1,18/12/1999,9/06/2005,1
+1244423040,"Texas, Estados Unidos",17/12/1963,Male,Sales,Engineer I,Lynn Daneault,1.54,5,6/07/2003,20/08/2019,1
+1247030766,"Massachusetts, Estados Unidos",26/2/1991,Male,Production       ,Technician I,Brannon Miller,1.69,1,9/11/2009,,0
+1249877725,"Massachusetts, Estados Unidos",8/1/1991,Female,Software Engineering,Engineer I,Alex Sweetwater,1.7,1,22/07/2016,,0
+1250072793,"California, Estados Unidos",31/5/1987,Female,Information Technlogy,Engineer I,Peter Monroe,1.52,5,9/01/2010,3/11/2013,1
+1252692687,"Massachusetts, Estados Unidos",10/7/1991,Female,Information Technlogy,Engineer I,Simon Roup,1.8,4,13/10/2018,5/08/2020,1
+1254802745,"Texas, Estados Unidos",5/5/1985,Female,Sales,Engineer I,Lynn Daneault,1.58,1,27/01/2006,,0
+1254856881,"Texas, Estados Unidos",2/5/1979,Female,Sales,Director,Jennifer Zamora,1.82,1,7/03/2014,,0
+1256283911,"Texas, Estados Unidos",7/11/1988,Male,Information Technlogy,Engineer I,Simon Roup,1.76,3,25/05/2012,,0
+1256487427,"Texas, Estados Unidos",19/5/1980,Female,Software Engineering,Engineer I,Alex Sweetwater,1.65,5,12/07/2007,25/07/2007,1
+1260580157,"Massachusetts, Estados Unidos",14/11/1981,Male,Production       ,Manager,Janet King,1.76,3,11/02/2019,31/03/2019,1
+1261225978,"Texas, Estados Unidos",26/6/1960,Male,Production       ,Technician I,Amy Dunn,1.74,4,2/07/2014,,0
+1261975995,"Texas, Estados Unidos",28/2/1974,Female,Sales,Director,Jennifer Zamora,1.82,1,13/11/2012,,0
+1269016154,"California, Estados Unidos",21/12/1985,Female,Production       ,Technician II,Michael Albert,1.83,4,13/10/2006,,0
+1269423995,"California, Estados Unidos",10/5/1983,Female,Admin Offices,Administrative II,Elijiah Gray,1.52,5,30/06/2007,,0
+1270646018,"Texas, Estados Unidos",20/4/1996,Male,Sales,Engineer II,Lynn Daneault,1.88,1,25/10/2017,,0
+1270756900,"California, Estados Unidos",31/3/1969,Male,Information Technlogy,Manager,Jennifer Zamora,1.59,3,29/05/1989,,0
+1271226003,"California, Estados Unidos",14/5/1975,Female,Production       ,Technician II,Elijiah Gray,1.58,3,3/07/1996,,0
+1271410828,"Massachusetts, Estados Unidos",9/6/1992,Male,Software Engineering     ,Manager,Janet King,1.77,3,17/03/2011,7/02/2017,1
+1271509143,"Texas, Estados Unidos",5/9/1962,Female,Sales,Engineer II,John Smith,1.52,2,24/11/1998,,0
+1272716128,"Massachusetts, Estados Unidos",5/1/1977,Male,Admin Offices,Administrative II,Brandon R. LeBlanc,1.7,2,27/11/2006,,0
+1273390054,"Texas, Estados Unidos",27/9/1981,Female,Sales,Engineer I,John Smith,1.55,4,7/12/2005,,0
+1275256410,"Texas, Estados Unidos",27/2/1962,Male,Information Technlogy,Engineer I,Simon Roup,1.76,3,10/11/2010,,0
+1277936783,"Massachusetts, Estados Unidos",15/8/1969,Male,Executive Office,Director,Board of Directors,1.54,2,19/02/1992,,0
+1278216816,"Texas, Estados Unidos",31/12/1959,Male,Production       ,Manager,Janet King,1.77,1,27/08/2015,4/11/2015,1
+1280488330,"California, Estados Unidos",14/8/1973,Female,Production       ,Technician II,Elijiah Gray,1.59,4,10/01/1998,,0
+1280518991,"California, Estados Unidos",28/2/1982,Male,Admin Offices,Administrative II,David Stanley,1.65,2,23/08/2013,,0
+1280598409,"Massachusetts, Estados Unidos",20/9/1975,Female,Production       ,Technician II,Michael Albert,1.83,4,31/10/1993,,0
+1281559592,"California, Estados Unidos",11/5/1974,Male,Information Technlogy,Engineer I,Simon Roup,1.93,1,23/11/2005,28/01/2020,1
+1281839970,"Virginia, Estados Unidos",3/10/1973,Female,Admin Offices,Administrative II,Elijiah Gray,1.61,4,20/01/2003,,0
+1283386404,"Texas, Estados Unidos",10/6/1965,Male,Production       ,Technician I,Amy Dunn,1.7,1,3/09/2008,,0
+1284043087,"Texas, Estados Unidos",18/7/1988,Male,Software Engineering,Engineer II,Alex Sweetwater,1.62,5,17/08/2009,,0
+1286356295,"California, Estados Unidos",10/5/1986,Female,Information Technlogy,Engineer II,Peter Monroe,1.67,1,3/07/2008,30/11/2020,1
+1288539454,"Texas, Estados Unidos",20/3/1990,Female,Software Engineering,Engineer II,Alex Sweetwater,1.61,3,24/12/2013,2/03/2014,1
+1288627101,"California, Estados Unidos",5/1/1968,Female,Admin Offices,Administrative I,David Stanley,1.84,1,14/01/1999,,0
+1288866026,"Texas, Estados Unidos",10/10/1960,Female,Software Engineering,Engineer I,Alex Sweetwater,1.73,1,15/01/2003,,0
+1289164498,"Texas, Estados Unidos",5/6/1960,Male,Admin Offices,Administrative I,Brandon R. LeBlanc,1.76,4,21/11/1997,,0
+1289922809,"Florida, Estados Unidos",24/3/1968,Female,Admin Offices,Administrative II,Elijiah Gray,1.51,3,10/12/2015,,0
+1290109533,"Texas, Estados Unidos",17/9/1966,Female,Information Technlogy,Engineer I,Simon Roup,1.81,4,21/06/2010,,0
+1290228518,"California, Estados Unidos",26/10/1975,Female,Production       ,Technician II,Elijiah Gray,1.61,2,27/01/1997,,0
+1291580394,"Massachusetts, Estados Unidos",27/9/1989,Male,Information Technlogy,Engineer I,Peter Monroe,1.51,1,13/06/2008,10/10/2017,1
+1291933345,"Texas, Estados Unidos",3/10/1957,Female,Production       ,Technician II,Elijiah Gray,1.58,3,27/12/2008,5/03/2009,1
+1291995589,"Texas, Estados Unidos",13/6/1963,Female,Sales,Engineer II,John Smith,1.51,5,6/07/2014,1/08/2019,1
+1292745392,"Massachusetts, Estados Unidos",12/11/1960,Female,Production       ,Manager,Janet King,1.75,3,6/06/2013,,0
+1293148483,"Massachusetts, Estados Unidos",17/7/1968,Female,Information Technlogy,Engineer I,Simon Roup,1.83,4,18/05/2019,,0
+1293994374,"California, Estados Unidos",17/5/1994,Female,Admin Offices,Administrative II,Brandon R. LeBlanc,1.72,5,8/01/2017,,0
+1295926651,"Ohio, Estados Unidos",1/6/1981,Male,Admin Offices,Manager,Debra Houlihan,1.53,1,2/01/2019,,0
+1296543755,"Texas, Estados Unidos",26/11/1978,Female,Production       ,Technician I,Amy Dunn,1.79,3,10/09/2019,,0
+1296769776,"Texas, Estados Unidos",25/8/1985,Male,Production       ,Technician II,Brannon Miller,1.52,2,23/01/2014,,0
+1297034368,"Massachusetts, Estados Unidos",3/4/1991,Female,Information Technlogy,Engineer I,Simon Roup,1.73,1,12/11/2011,,0
+1299234944,"Massachusetts, Estados Unidos",20/4/1994,Female,Information Technlogy,Engineer I,Peter Monroe,1.89,2,2/04/2016,,0
+1300419779,"Texas, Estados Unidos",27/1/1996,Female,Production       ,Technician I,Brannon Miller,1.78,5,4/03/2017,,0
+1300871027,"Texas, Estados Unidos",19/9/1980,Female,Information Technlogy,Engineer I,Simon Roup,1.81,4,13/06/2019,,0
+1301081011,"Massachusetts, Estados Unidos",9/6/1963,Male,Information Technlogy,Engineer I,Peter Monroe,1.77,3,19/04/2006,,0
+1301738820,"Texas, Estados Unidos",1/11/1990,Female,Information Technlogy,Engineer II,Simon Roup,1.61,3,25/12/2019,,0
+1302614420,"Massachusetts, Estados Unidos",1/8/1964,Male,Production       ,Technician I,Amy Dunn,1.7,1,15/10/2017,20/12/2020,1
+1306899734,"California, Estados Unidos",2/8/1988,Female,Production       ,Technician II,Brannon Miller,1.92,5,5/06/2014,,0
+1307224419,"Texas, Estados Unidos",29/8/1993,Male,Information Technlogy,Engineer I,Peter Monroe,1.51,1,28/05/2019,,0
+1307974061,"Massachusetts, Estados Unidos",25/9/1962,Female,Admin Offices,Administrative II,Brandon R. LeBlanc,1.71,5,11/12/2000,1/11/2013,1
+1311495726,"Texas, Estados Unidos",3/10/1990,Female,Software Engineering,Engineer II,Alex Sweetwater,1.68,4,8/02/2017,,0
+1313049631,"Massachusetts, Estados Unidos",27/3/1983,Female,Admin Offices,Administrative II,Brandon R. LeBlanc,1.71,5,28/06/2020,9/11/2020,1
+1314164426,"California, Estados Unidos",14/4/1992,Male,Production       ,Technician II,Amy Dunn,1.94,5,15/02/2013,,0
+1314275441,"Texas, Estados Unidos",1/11/1955,Male,Information Technlogy,Engineer I,Peter Monroe,1.82,1,3/07/2020,1/12/2020,1
+1321361800,"Texas, Estados Unidos",9/10/1969,Female,Admin Offices,Administrative II,Brandon R. LeBlanc,1.71,5,27/06/2013,,0
+1322219683,"California, Estados Unidos",28/1/1977,Female,Software Engineering,Engineer I,Alex Sweetwater,1.71,2,1/07/2012,,0
+1322716463,"California, Estados Unidos",1/12/1975,Male,Executive Office,Director,Board of Directors,1.55,3,11/11/2001,27/06/2003,1
+1324048690,"Massachusetts, Estados Unidos",16/8/1984,Female,Production       ,Manager,Jennifer Zamora,1.53,2,31/10/2005,,0
+1325950096,"California, Estados Unidos",20/7/1994,Female,Production       ,Technician II,Amy Dunn,1.55,4,25/03/2013,,0
+1329352687,"Massachusetts, Estados Unidos",1/11/1957,Female,Production       ,Technician II,Webster Butler,1.8,4,12/03/1989,,0
+1329487864,"Massachusetts, Estados Unidos",8/11/1970,Male,Information Technlogy,Engineer II,Simon Roup,1.63,2,21/11/2006,,0
+1329509576,"Massachusetts, Estados Unidos",8/5/1989,Male,Information Technlogy,Engineer I,Simon Roup,1.78,2,19/09/2007,,0
+1330021171,"Texas, Estados Unidos",2/5/1990,Male,Information Technlogy,Manager,Jennifer Zamora,1.57,5,29/06/2018,,0
+1330494893,"Texas, Estados Unidos",10/9/1971,Male,Executive Office,Director,Board of Directors,1.52,3,4/11/2016,3/04/2017,1
+1335341716,"Texas, Estados Unidos",22/3/1957,Male,Sales,Engineer II,Lynn Daneault,1.88,1,15/02/2006,,0
+1335421786,"California, Estados Unidos",12/8/1979,Female,Production       ,Technician II,Amy Dunn,1.9,4,31/05/2000,2/09/2008,1
+1337435772,"Tennessee, Estados Unidos",21/4/1966,Female,Admin Offices,Administrative II,Elijiah Gray,1.57,5,20/08/2004,,0
+1339961607,"California, Estados Unidos",10/6/1972,Male,Production       ,Manager,Janet King,1.76,3,11/06/1999,,0
+1340783769,"Massachusetts, Estados Unidos",21/4/1960,Male,Information Technlogy,Manager,Debra Houlihan,1.64,4,7/03/2019,,0
+1341219959,"California, Estados Unidos",29/7/1963,Male,Executive Office,Director,Board of Directors,1.55,3,26/12/2006,4/05/2010,1
+1344603844,"Texas, Estados Unidos",30/11/1954,Male,Admin Offices,Administrative I,David Stanley,1.83,1,2/01/2008,14/10/2019,1
+1350686668,"Massachusetts, Estados Unidos",31/5/1966,Female,Production       ,Technician II,Brannon Miller,1.63,4,21/12/2019,,0
+1350770027,"Texas, Estados Unidos",11/9/1981,Male,Sales,Engineer I,Lynn Daneault,1.54,5,10/03/2017,,0
+1351053528,"Massachusetts, Estados Unidos",17/10/1985,Male,Production       ,Technician I,Kelley Spirea,1.71,5,9/10/2020,,0
+1355442217,"Texas, Estados Unidos",21/6/1975,Female,Software Engineering,Engineer I,Alex Sweetwater,1.65,5,19/06/2001,,0
+1355473414,"California, Estados Unidos",27/9/1961,Male,Executive Office,Director,Board of Directors,1.55,3,27/04/2012,,0
+1359945017,"Nueva York, Estados Unidos",7/2/1964,Male,Software Engineering,Engineer I,Alex Sweetwater,1.74,5,7/06/2010,,0
+1360265522,"Massachusetts, Estados Unidos",30/7/1972,Female,Production       ,Technician II,Kelley Spirea,1.63,1,26/12/2014,,0
+1361719214,"Texas, Estados Unidos",10/2/1980,Male,Sales,Engineer II,John Smith,1.86,3,26/11/2000,,0
+1361917165,"Massachusetts, Estados Unidos",9/11/1986,Female,Information Technlogy,Engineer I,Simon Roup,1.81,4,9/04/2012,,0
+1363592586,"Massachusetts, Estados Unidos",2/6/1975,Male,Production       ,Manager,Janet King,1.78,2,28/10/2018,14/03/2020,1
+1365054610,"Texas, Estados Unidos",14/2/1993,Male,Sales,Engineer II,Lynn Daneault,1.92,2,30/11/2012,,0
+1367271876,"Massachusetts, Estados Unidos",12/9/1963,Male,Information Technlogy,Engineer I,Simon Roup,1.76,3,14/09/2013,26/08/2018,1
+1367838500,"California, Estados Unidos",20/11/1963,Female,Admin Offices,Administrative II,Elijiah Gray,1.51,3,6/07/2001,,0
+1369995813,"Texas, Estados Unidos",28/12/1993,Female,Sales,Engineer II,Lynn Daneault,1.91,1,19/11/2012,,0
+1371320322,"California, Estados Unidos",24/9/1973,Female,Production       ,Director,Janet King,1.56,1,5/02/2003,7/07/2009,1
+1371635996,"Texas, Estados Unidos",1/9/1987,Female,Sales,Engineer II,John Smith,1.89,4,9/08/2012,,0
+1375245360,"Texas, Estados Unidos",31/8/1988,Male,Information Technlogy,Engineer II,Peter Monroe,1.68,1,17/06/2008,,0
+1382322558,"Texas, Estados Unidos",21/11/1996,Male,Production       ,Technician I,Amy Dunn,1.74,4,26/10/2019,11/04/2020,1
+1382346573,"California, Estados Unidos",2/7/1976,Female,Admin Offices,Administrative I,Brandon R. LeBlanc,1.79,3,23/02/2007,14/07/2019,1
+1384789801,"California, Estados Unidos",1/1/1958,Female,Production       ,Technician I,Brannon Miller,1.61,2,27/11/2012,3/12/2018,1
+1385543745,"California, Estados Unidos",3/3/1997,Female,Admin Offices,Administrative II,Elijiah Gray,1.61,4,15/07/2018,,0
+1386043389,"California, Estados Unidos",17/8/1991,Female,Information Technlogy,Engineer II,Simon Roup,1.62,1,9/10/2015,20/12/2019,1
+1390294039,"Texas, Estados Unidos",20/11/1968,Male,Sales,Director,Jennifer Zamora,1.81,4,5/03/2010,28/12/2010,1
+1391412711,"Texas, Estados Unidos",27/4/1985,Female,Production       ,Technician II,Kelley Spirea,1.63,1,12/11/2008,,0
+1391600821,"Texas, Estados Unidos",16/5/1995,Female,Sales,Engineer II,John Smith,1.52,2,15/08/2019,,0
+1394340988,"California, Estados Unidos",21/4/1961,Female,Production       ,Technician II,Webster Butler,1.82,2,30/03/2011,,0
+1394755415,"Massachusetts, Estados Unidos",23/1/1965,Female,Information Technlogy,Engineer I,Simon Roup,1.75,5,12/01/2016,,0
+1395031522,"Texas, Estados Unidos",26/1/1973,Female,Information Technlogy,Engineer I,Peter Monroe,1.89,2,9/02/2012,,0
+1395872110,"Texas, Estados Unidos",30/8/1971,Male,Information Technlogy,Manager,Debra Houlihan,1.64,4,27/01/2004,20/01/2006,1
+1399652283,"Massachusetts, Estados Unidos",30/4/1970,Male,Production       ,Technician I,Brannon Miller,1.66,1,16/01/2000,,0
+1401090194,"Texas, Estados Unidos",23/1/1984,Female,Production       ,Technician I,Amy Dunn,1.76,1,29/11/2005,,0
+1401771568,"Massachusetts, Estados Unidos",9/1/1970,Female,Production       ,Technician I,Amy Dunn,1.65,5,27/03/2013,,0
+1402296556,"California, Estados Unidos",7/3/1983,Female,Production       ,Technician II,Webster Butler,1.82,2,1/08/2019,,0
+1406252698,"California, Estados Unidos",6/3/1970,Female,Admin Offices,Administrative I,Elijiah Gray,1.66,3,10/08/2018,31/03/2020,1
+1408523510,"California, Estados Unidos",6/9/1965,Male,Information Technlogy,Manager,Jennifer Zamora,1.57,5,21/08/2003,,0
+1409152311,"California, Estados Unidos",20/6/1962,Male,Admin Offices,Administrative I,Brandon R. LeBlanc,1.77,5,16/01/1998,,0
+1410016453,"Texas, Estados Unidos",5/4/1958,Female,Software Engineering,Engineer II,Alex Sweetwater,1.67,5,31/10/2003,25/10/2004,1
+1410888640,"Massachusetts, Estados Unidos",22/7/1983,Female,Production       ,Technician I,Elijiah Gray,1.73,4,1/11/2003,,0
+1411876025,"Texas, Estados Unidos",5/9/1984,Male,Production       ,Technician II,Kelley Spirea,1.6,1,13/03/2015,,0
+1413427970,"Massachusetts, Estados Unidos",14/4/1958,Female,Information Technlogy,Engineer I,Eric Dougall,1.9,3,18/07/2020,,0
+1416328654,"Massachusetts, Estados Unidos",23/2/1984,Female,Information Technlogy,Engineer I,Simon Roup,1.85,1,9/03/2006,,0
+1419491059,"California, Estados Unidos",12/9/1992,Female,Production       ,Technician II,Amy Dunn,1.62,4,15/11/2019,,0
+1420224726,"Texas, Estados Unidos",9/11/1958,Male,Admin Offices,Administrative II,Elijiah Gray,1.58,1,19/08/1998,,0
+1423856742,"Texas, Estados Unidos",26/3/1988,Male,Production       ,Technician I,Amy Dunn,1.57,4,8/10/2012,,0
+1424916841,"Massachusetts, Estados Unidos",20/8/1965,Male,Production       ,Technician II,Kelley Spirea,1.65,5,29/07/2014,,0
+1428808719,"California, Estados Unidos",23/3/1992,Female,Information Technlogy,Engineer I,Eric Dougall,1.86,4,8/04/2011,,0
+1429900718,"Massachusetts, Estados Unidos",3/3/1962,Female,Information Technlogy,Engineer I,Simon Roup,1.73,1,27/09/2012,,0
+1430353700,"Texas, Estados Unidos",19/6/1959,Male,Information Technlogy,Engineer I,Peter Monroe,1.77,3,30/08/2019,,0
+1430825551,"California, Estados Unidos",18/7/1971,Female,Executive Office,Director,Board of Directors,1.87,3,6/09/2011,18/09/2015,1
+1431217176,"Massachusetts, Estados Unidos",3/11/1985,Male,Information Technlogy,Engineer I,Simon Roup,1.72,4,17/04/2008,,0
+1431436910,"Texas, Estados Unidos",2/2/1988,Female,Sales,Director,Jennifer Zamora,1.82,1,28/06/2006,,0
+1431560474,"Massachusetts, Estados Unidos",28/5/1963,Male,Production       ,Manager,Jennifer Zamora,1.54,3,27/03/2012,,0
+1434912164,"Texas, Estados Unidos",13/11/1989,Male,Sales,Engineer II,John Smith,1.85,2,11/03/2012,22/04/2012,1
+1438651532,"Texas, Estados Unidos",18/1/1970,Male,Sales,Engineer I,Lynn Daneault,1.53,4,15/11/2013,19/04/2020,1
+1439684722,"Montana, Estados Unidos",14/8/1960,Male,Admin Offices,Administrative I,Elijiah Gray,1.64,3,8/03/2019,5/12/2019,1
+1443782382,"California, Estados Unidos",16/4/1971,Female,Production       ,Technician II,Kelley Spirea,1.57,3,20/09/2006,,0
+1444318468,"Massachusetts, Estados Unidos",27/8/1991,Female,Production       ,Technician I,Brannon Miller,1.59,5,22/08/2018,,0
+1454746242,"Texas, Estados Unidos",4/5/1972,Female,Production       ,Technician II,Brannon Miller,1.92,5,3/02/2005,,0
+1456052972,"Massachusetts, Estados Unidos",19/3/1963,Male,Production       ,Technician I,Brannon Miller,1.71,1,16/04/1998,,0
+1457922405,"California, Estados Unidos",29/7/1969,Male,Information Technlogy,Engineer II,Simon Roup,1.63,2,2/01/1995,,0
+1459229848,"Massachusetts, Estados Unidos",7/10/1956,Female,Information Technlogy,Engineer I,Simon Roup,1.7,4,8/12/2013,,0
+1459976825,"Massachusetts, Estados Unidos",6/4/1966,Female,Information Technlogy,Engineer I,Simon Roup,1.7,4,24/06/2015,,0
+1460372588,"California, Estados Unidos",13/5/1968,Female,Executive Office,Director,Board of Directors,1.51,3,25/05/1993,,0
+1460523763,"Massachusetts, Estados Unidos",5/10/1969,Female,Production       ,Technician II,Elijiah Gray,1.58,3,28/04/2020,,0
+1460764718,"California, Estados Unidos",22/7/1976,Female,Executive Office,Director,Board of Directors,1.87,3,18/10/2014,,0
+1461288795,"California, Estados Unidos",7/6/1974,Female,Admin Offices,Administrative I,Elijiah Gray,1.66,3,13/04/2005,5/11/2011,1
+1464423505,"Texas, Estados Unidos",11/2/1992,Female,Information Technlogy,Engineer I,Simon Roup,1.83,4,31/03/2014,10/05/2019,1
+1464647114,"Massachusetts, Estados Unidos",20/9/1959,Female,Executive Office,Director,Board of Directors,1.86,1,20/12/2010,,0
+1465609922,"Texas, Estados Unidos",6/8/1974,Female,Information Technlogy,Engineer I,Peter Monroe,1.74,5,23/04/2008,,0
+1469512174,"California, Estados Unidos",16/2/1995,Female,Production       ,Technician I,Michael Albert,1.89,4,17/05/2016,,0
+1472224616,"California, Estados Unidos",22/3/1979,Male,Executive Office,Director,Board of Directors,1.54,2,7/02/2001,29/04/2013,1
+1475403077,"Texas, Estados Unidos",24/2/1972,Female,Production       ,Technician I,Amy Dunn,1.79,3,28/08/2016,,0
+1476021865,"Massachusetts, Estados Unidos",15/3/1997,Female,Production       ,Technician I,Amy Dunn,1.79,3,4/04/2000,,0
+1476758093,"Texas, Estados Unidos",15/11/1978,Male,Sales,Engineer I,Lynn Daneault,1.53,4,2/02/2007,,0
+1479286661,"California, Estados Unidos",3/2/1955,Female,Software Engineering,Engineer II,Alex Sweetwater,1.69,3,2/09/2018,,0
+1480634026,"Massachusetts, Estados Unidos",8/5/1967,Male,Information Technlogy,Engineer I,Simon Roup,1.87,1,28/03/2015,,0
+1481095994,"Texas, Estados Unidos",2/8/1961,Male,Admin Offices,Administrative I,David Stanley,1.83,1,10/08/2005,25/09/2009,1
+1482348652,"Nueva York, Estados Unidos",10/3/1994,Male,Admin Offices,Manager,Janet King,1.54,5,7/12/2012,,0
+1482917847,"California, Estados Unidos",8/1/1957,Female,Information Technlogy,Engineer I,Peter Monroe,1.92,2,13/12/2014,,0
+1483436920,"Texas, Estados Unidos",21/11/1982,Female,Production       ,Technician II,Amy Dunn,1.62,4,11/03/2011,27/10/2011,1
+1483896833,"Texas, Estados Unidos",26/6/1980,Female,Production       ,Technician I,Amy Dunn,1.76,1,25/12/2017,,0
+1484995281,"California, Estados Unidos",24/6/1988,Female,Admin Offices,Manager,Elijiah Gray,1.55,1,12/10/2012,,0
+1486308357,"Texas, Estados Unidos",27/5/1966,Male,Production       ,Technician I,Elijiah Gray,1.7,4,28/10/2002,,0
+1487348062,"Massachusetts, Estados Unidos",11/6/1969,Female,Production       ,Technician I,Brannon Miller,1.61,2,2/06/2017,,0
+1488568782,"Massachusetts, Estados Unidos",13/8/1978,Male,Production       ,Manager,Debra Houlihan,1.64,3,5/12/2002,,0
+1489155128,"Texas, Estados Unidos",15/3/1966,Female,Production       ,Technician II,Brannon Miller,1.51,5,25/09/1987,,0
+1491911471,"Massachusetts, Estados Unidos",14/3/1991,Female,Production       ,Manager,Jennifer Zamora,1.53,2,28/08/2010,17/02/2012,1
+1493278444,"California, Estados Unidos",18/2/1987,Female,Production       ,Director,Janet King,1.56,1,24/03/2007,,0
+1493333340,"California, Estados Unidos",15/11/1964,Male,Admin Offices,Manager,Debra Houlihan,1.53,1,7/04/2004,,0
+1495701800,"Massachusetts, Estados Unidos",27/1/1959,Male,Production       ,Technician I,Amy Dunn,1.74,4,3/05/2008,,0
+1498233514,"California, Estados Unidos",22/10/1987,Male,Production       ,Technician II,Brannon Miller,1.52,2,18/01/2011,,0
+1500812185,"Massachusetts, Estados Unidos",19/6/1958,Male,Production       ,Technician I,Elijiah Gray,1.67,5,5/07/2010,,0
+1502906200,"Texas, Estados Unidos",22/9/1974,Male,Admin Offices,Manager,Debra Houlihan,1.53,1,1/02/2018,29/08/2018,1
+1502914106,"Texas, Estados Unidos",20/4/1969,Female,Software Engineering,Engineer II,Alex Sweetwater,1.67,5,2/09/2016,,0
+1503052232,"Texas, Estados Unidos",12/3/1987,Male,Information Technlogy,Engineer I,Peter Monroe,1.82,1,14/11/2007,,0
+1508967574,"Virginia, Estados Unidos",5/2/1959,Female,Admin Offices,Administrative II,Elijiah Gray,1.61,4,30/04/2000,23/11/2019,1
+1509785353,"Massachusetts, Estados Unidos",2/5/1968,Male,Information Technlogy,Manager,Janet King,1.58,4,12/10/2001,,0
+1510805682,"California, Estados Unidos",11/12/1988,Female,Production       ,Technician I,Michael Albert,1.89,4,28/07/2013,2/02/2014,1
+1511163206,"Texas, Estados Unidos",4/2/1979,Female,Production       ,Technician II,Amy Dunn,1.53,3,17/08/1999,,0
+1512321676,"California, Estados Unidos",17/3/1979,Female,Production       ,Technician II,Brannon Miller,1.51,5,23/03/2012,,0
+1516306306,"California, Estados Unidos",12/8/1983,Female,Admin Offices,Administrative I,Elijiah Gray,1.63,3,6/07/2012,23/07/2014,1
+1517228302,"Texas, Estados Unidos",25/4/1986,Male,Sales,Engineer II,John Smith,1.87,5,29/08/2016,,0
+1517433995,"Texas, Estados Unidos",6/4/1993,Male,Information Technlogy,Engineer I,Simon Roup,1.93,1,20/06/2014,,0
+1517751352,"Texas, Estados Unidos",16/12/1969,Female,Production       ,Technician II,Elijiah Gray,1.58,3,2/04/2014,,0
+1519637262,"Virginia, Estados Unidos",4/1/1969,Female,Sales,Engineer II,John Smith,1.52,2,2/02/1989,,0
+1522677970,"Massachusetts, Estados Unidos",26/5/1955,Female,Admin Offices,Manager,Debra Houlihan,1.75,5,1/06/2005,,0
+1523094702,"Texas, Estados Unidos",29/3/1986,Male,Production       ,Manager,Janet King,1.78,2,23/02/2016,,0
+1524042630,"Texas, Estados Unidos",23/2/1982,Female,Sales,Engineer II,John Smith,1.51,5,15/08/2017,,0
+1524173220,"Montana, Estados Unidos",19/6/1959,Male,Admin Offices,Administrative I,Elijiah Gray,1.64,3,9/09/2001,,0
+1524815076,"Massachusetts, Estados Unidos",4/1/1981,Female,Admin Offices,Manager,David Stanley,1.69,1,29/01/2018,,0
+1525812494,"Massachusetts, Estados Unidos",27/9/1982,Female,Production       ,Technician I,Brannon Miller,1.67,4,7/07/2008,,0
+1526151195,"California, Estados Unidos",16/4/1989,Male,Admin Offices,Manager,Janet King,1.59,1,31/03/2015,,0
+1526235818,"California, Estados Unidos",31/3/1992,Male,Information Technlogy,Engineer I,Peter Monroe,1.84,5,21/04/2018,,0
+1526652875,"California, Estados Unidos",24/8/1966,Female,Admin Offices,Administrative II,David Stanley,1.8,4,17/10/2002,,0
+1527106675,"California, Estados Unidos",28/4/1991,Male,Software Engineering,Engineer II,Alex Sweetwater,1.72,3,13/06/2019,,0
+1528583779,"Texas, Estados Unidos",31/7/1964,Male,Sales,Engineer II,John Smith,1.9,1,16/04/2003,6/02/2013,1
+1529157982,"Texas, Estados Unidos",28/8/1983,Female,Sales,Engineer I,Lynn Daneault,1.58,1,7/06/2018,24/06/2018,1
+1529677297,"California, Estados Unidos",6/8/1955,Female,Information Technlogy,Engineer I,Peter Monroe,1.92,2,9/03/2014,9/02/2020,1
+1530954528,"Texas, Estados Unidos",14/8/1993,Male,Information Technlogy,Engineer I,Peter Monroe,1.84,5,18/04/2015,31/01/2020,1
+1539277107,"Texas, Estados Unidos",19/2/1982,Female,Sales,Engineer II,Lynn Daneault,1.84,2,18/10/2004,30/12/2020,1
+1540441300,"Massachusetts, Estados Unidos",12/5/1962,Male,Production       ,Technician I,Kelley Spirea,1.71,5,28/03/2019,,0
+1542392114,"Massachusetts, Estados Unidos",29/3/1987,Male,Admin Offices,Administrative II,Brandon R. LeBlanc,1.7,2,8/12/2014,31/05/2017,1
+1543100352,"California, Estados Unidos",22/8/1974,Female,Production       ,Technician II,Amy Dunn,1.53,3,24/05/2017,,0
+1544002015,"Montana, Estados Unidos",11/3/1993,Female,Admin Offices,Administrative II,Elijiah Gray,1.57,5,15/03/2013,,0
+1544697318,"Texas, Estados Unidos",1/5/1966,Male,Sales,Engineer II,John Smith,1.85,2,6/06/2001,,0
+1545484516,"Nueva York, Estados Unidos",23/2/1974,Male,Sales,Engineer II,John Smith,1.87,5,31/01/2014,,0
+1548917025,"California, Estados Unidos",7/5/1981,Female,Production       ,Technician II,Brannon Miller,1.54,2,24/11/2016,,0
+1550496049,"Oregon, Estados Unidos",4/7/1970,Female,Sales,Engineer II,Lynn Daneault,1.91,1,8/12/2010,,0
+1553015458,"Massachusetts, Estados Unidos",7/7/1991,Male,Information Technlogy,Engineer I,Simon Roup,1.79,4,24/12/2012,,0
+1553034247,"Massachusetts, Estados Unidos",16/3/1989,Female,Production       ,Technician II,Webster Butler,1.85,5,12/06/2008,,0
+1553085560,"Texas, Estados Unidos",10/3/1956,Male,Production       ,Technician II,Kissy Sullivan,1.88,1,1/02/2012,,0
+1554024488,"California, Estados Unidos",28/8/1983,Female,Production       ,Technician II,Amy Dunn,1.62,4,5/09/2001,6/03/2007,1
+1555084606,"Nevada, Estados Unidos",8/6/1959,Male,Admin Offices,Manager,Janet King,1.59,1,25/03/2002,25/12/2004,1
+1555647598,"Massachusetts, Estados Unidos",26/5/1978,Female,Information Technlogy,Engineer II,Simon Roup,1.62,1,19/10/1996,,0
+1556105973,"Massachusetts, Estados Unidos",19/7/1955,Male,Admin Offices,Manager,Janet King,1.54,5,13/04/2000,29/03/2013,1
+1557207947,"California, Estados Unidos",5/5/1970,Female,Software Engineering,Engineer II,Alex Sweetwater,1.68,4,22/12/2005,,0
+1558395029,"Massachusetts, Estados Unidos",21/12/1989,Male,Information Technlogy,Engineer I,Peter Monroe,1.77,3,20/06/2013,15/09/2017,1
+1559238085,"Texas, Estados Unidos",16/12/1963,Female,Sales,Engineer I,Lynn Daneault,1.58,1,24/01/2000,,0
+1560727903,"Texas, Estados Unidos",5/11/1955,Male,Executive Office,Director,Board of Directors,1.52,3,25/07/2015,6/04/2017,1
+1565039896,"Massachusetts, Estados Unidos",19/11/1966,Female,Production       ,Manager,Janet King,1.74,1,17/10/2006,27/05/2010,1
+1567789995,"Texas, Estados Unidos",17/7/1993,Female,Information Technlogy,Engineer I,Peter Monroe,1.92,2,18/02/2012,,0
+1568120846,"Texas, Estados Unidos",21/4/1997,Male,Software Engineering,Engineer II,Alex Sweetwater,1.63,5,2/08/2015,,0
+1571826307,"Texas, Estados Unidos",18/1/1965,Male,Information Technlogy,Manager,Jennifer Zamora,1.57,5,11/01/2018,,0
+1572109392,"California, Estados Unidos",25/11/1966,Male,Executive Office,Director,Board of Directors,1.54,2,1/08/2005,,0
+1572685997,"Texas, Estados Unidos",30/6/1979,Male,Production       ,Technician II,Amy Dunn,1.86,1,22/11/1997,,0
+1573153766,"Massachusetts, Estados Unidos",1/10/1971,Female,Admin Offices,Administrative II,Brandon R. LeBlanc,1.71,5,21/10/2014,1/07/2019,1
+1576864573,"Texas, Estados Unidos",20/7/1978,Male,Sales,Engineer II,John Smith,1.86,3,1/08/2014,,0
+1578040955,"Texas, Estados Unidos",3/11/1975,Female,Admin Offices,Manager,David Stanley,1.69,1,7/04/1998,,0
+1578179826,"Texas, Estados Unidos",14/2/1955,Female,Information Technlogy,Engineer I,Peter Monroe,1.89,2,10/06/2012,25/05/2015,1
+1579797141,"California, Estados Unidos",18/2/1986,Male,Production       ,Manager,Janet King,1.79,2,3/10/2008,,0
+1580039341,"Texas, Estados Unidos",30/6/1993,Male,Information Technlogy,Engineer I,Peter Monroe,1.77,3,28/02/2012,10/09/2012,1
+1580295072,"Texas, Estados Unidos",7/11/1965,Female,Production       ,Technician II,Kelley Spirea,1.55,4,22/06/2012,,0
+1580590449,"California, Estados Unidos",5/11/1991,Female,Admin Offices,Administrative I,David Stanley,1.85,4,2/12/2015,,0
+1580938348,"California, Estados Unidos",15/2/1962,Female,Information Technlogy,Engineer I,Peter Monroe,1.92,2,29/07/1998,,0
+1581738889,"Texas, Estados Unidos",4/3/1993,Female,Software Engineering,Engineer I,Alex Sweetwater,1.7,1,31/07/2011,26/10/2016,1
+1583422240,"Texas, Estados Unidos",21/11/1984,Female,Production       ,Technician II,Amy Dunn,1.56,1,27/02/2018,,0
+1584014951,"Texas, Estados Unidos",16/5/1955,Male,Production       ,Manager,Jennifer Zamora,1.54,3,16/01/1999,,0
+1584874589,"Massachusetts, Estados Unidos",5/7/1980,Male,Sales,Engineer II,Lynn Daneault,1.88,1,6/04/2017,,0
+1585321360,"Texas, Estados Unidos",19/7/1973,Female,Software Engineering,Engineer I,Alex Sweetwater,1.75,4,24/11/2012,,0
+1585490895,"California, Estados Unidos",12/6/1996,Male,Information Technlogy,Engineer I,Simon Roup,1.79,4,27/05/2019,,0
+1586491041,"Texas, Estados Unidos",15/6/1994,Female,Admin Offices,Manager,Debra Houlihan,1.75,5,3/09/2020,10/12/2020,1
+1589038621,"California, Estados Unidos",20/10/1965,Female,Admin Offices,Administrative I,Brandon R. LeBlanc,1.73,1,2/07/2003,,0
+1589312796,"Massachusetts, Estados Unidos",24/10/1963,Male,Production       ,Technician I,Brannon Miller,1.69,1,29/06/2017,,0
+1590277396,"Texas, Estados Unidos",1/8/1960,Male,Production       ,Technician I,Elijiah Gray,1.67,5,1/01/2001,,0
+1591629461,"Texas, Estados Unidos",17/11/1970,Female,Admin Offices,Administrative I,Brandon R. LeBlanc,1.73,1,18/10/2004,,0
+1591698576,"Texas, Estados Unidos",2/2/1989,Female,Information Technlogy,Engineer I,Simon Roup,1.75,5,8/04/2007,,0
+1592593351,"California, Estados Unidos",1/5/1978,Female,Executive Office,Director,Board of Directors,1.53,3,2/11/2017,,0
+1596322970,"Texas, Estados Unidos",20/6/1984,Male,Sales,Engineer I,Lynn Daneault,1.54,5,6/09/2002,,0
+1596553076,"Massachusetts, Estados Unidos",14/3/1964,Male,Admin Offices,Manager,Janet King,1.59,1,1/11/2009,27/05/2010,1
+1596929406,"California, Estados Unidos",21/11/1954,Male,Information Technlogy,Engineer II,Simon Roup,1.6,1,12/07/2004,20/07/2014,1
+1597596966,"Texas, Estados Unidos",6/4/1982,Female,Production       ,Technician II,Brannon Miller,1.63,4,16/05/2000,,0
+1600442122,"Texas, Estados Unidos",5/10/1994,Female,Sales,Engineer II,John Smith,1.52,2,10/10/2018,18/12/2018,1
+1600985242,"California, Estados Unidos",26/7/1967,Female,Admin Offices,Administrative II,David Stanley,1.8,4,10/12/1999,,0
+1603760764,"Texas, Estados Unidos",28/10/1983,Male,Admin Offices,Administrative I,Brandon R. LeBlanc,1.76,4,11/10/2005,29/09/2012,1
+1604655471,"Texas, Estados Unidos",31/10/1959,Female,Information Technlogy,Engineer II,Simon Roup,1.61,3,22/02/2018,,0
+1610330661,"Texas, Estados Unidos",25/7/1983,Female,Information Technlogy,Engineer I,Simon Roup,1.73,1,24/02/2015,,0
+1612774041,"California, Estados Unidos",11/2/1968,Female,Admin Offices,Administrative II,Elijiah Gray,1.6,3,18/10/2002,,0
+1615404894,"Texas, Estados Unidos",23/11/1984,Male,Production       ,Manager,Janet King,1.79,2,18/09/2007,,0
+1616314496,"Texas, Estados Unidos",30/8/1992,Female,Information Technlogy,Engineer I,Simon Roup,1.8,4,27/04/2015,8/08/2015,1
+1616855922,"Texas, Estados Unidos",19/5/1984,Male,Admin Offices,Administrative II,David Stanley,1.65,2,29/04/2009,,0
+1621566297,"Texas, Estados Unidos",18/5/1987,Female,Software Engineering,Engineer II,Alex Sweetwater,1.68,4,16/08/2012,4/06/2018,1
+1623193170,"Texas, Estados Unidos",26/12/1993,Male,Admin Offices,Administrative I,David Stanley,1.83,1,8/08/2020,6/10/2020,1
+1627977728,"Texas, Estados Unidos",16/6/1992,Male,Information Technlogy,Engineer I,Peter Monroe,1.82,1,8/03/2013,18/03/2014,1
+1628392920,"California, Estados Unidos",4/7/1992,Male,Production       ,Manager,Janet King,1.76,3,17/02/2011,,0
+1630357038,"Texas, Estados Unidos",16/10/1959,Male,Software Engineering,Engineer II,Alex Sweetwater,1.66,5,14/02/2013,,0
+1630404013,"Massachusetts, Estados Unidos",14/6/1997,Male,Information Technlogy,Engineer II,Peter Monroe,1.68,1,12/04/2000,,0
+1630699508,"Massachusetts, Estados Unidos",17/11/1958,Female,Production       ,Technician I,Amy Dunn,1.65,5,7/05/2020,,0
+1631618627,"California, Estados Unidos",16/4/1960,Female,Information Technlogy,Engineer I,Simon Roup,1.85,1,10/10/2009,,0
+1634480703,"California, Estados Unidos",28/2/1968,Female,Production       ,Technician II,Amy Dunn,1.9,4,26/06/2012,,0
+1638829973,"Massachusetts, Estados Unidos",30/11/1983,Male,Production       ,Manager,Debra Houlihan,1.64,3,3/10/2008,,0
+1645905493,"Massachusetts, Estados Unidos",16/2/1990,Male,Information Technlogy,Engineer I,Peter Monroe,1.71,4,15/09/2008,3/08/2014,1
+1646371726,"Massachusetts, Estados Unidos",18/5/1987,Male,Admin Offices,Administrative I,Brandon R. LeBlanc,1.77,5,8/10/2009,,0
+1647340562,"Texas, Estados Unidos",15/9/1970,Female,Admin Offices,Administrative I,David Stanley,1.85,4,8/03/2006,,0
+1649512700,"California, Estados Unidos",12/9/1985,Female,Production       ,Technician II,Amy Dunn,1.91,1,17/03/2012,,0
+1650481972,"California, Estados Unidos",18/4/1995,Female,Executive Office,Director,Board of Directors,1.86,1,20/10/2016,,0
+1651281843,"Texas, Estados Unidos",11/1/1993,Male,Information Technlogy,Engineer I,Simon Roup,1.72,4,28/01/2017,,0
+1651311340,"Texas, Estados Unidos",9/5/1961,Male,Information Technlogy,Manager,Debra Houlihan,1.64,4,13/01/1987,,0
+1652381088,"Texas, Estados Unidos",11/10/1965,Female,Production       ,Technician II,Elijiah Gray,1.59,4,9/08/2014,,0
+1652976604,"California, Estados Unidos",30/11/1984,Female,Software Engineering,Engineer I,Alex Sweetwater,1.7,1,22/09/2006,,0
+1654147983,"Texas, Estados Unidos",7/12/1973,Female,Production       ,Technician II,Kelley Spirea,1.57,3,8/06/2009,,0
+1655721092,"Massachusetts, Estados Unidos",9/2/1994,Male,Information Technlogy,Engineer I,Simon Roup,1.78,2,23/03/2019,,0
+1656549364,"Texas, Estados Unidos",4/2/1987,Female,Software Engineering,Engineer II,Alex Sweetwater,1.64,5,14/09/2018,,0
+1657760319,"Texas, Estados Unidos",4/10/1966,Female,Production       ,Technician II,Elijiah Gray,1.59,4,20/05/2014,24/06/2015,1
+1659256809,"Massachusetts, Estados Unidos",6/7/1956,Female,Production       ,Technician I,Elijiah Gray,1.68,3,28/08/1998,28/08/2011,1
+1659637589,"Massachusetts, Estados Unidos",4/8/1983,Female,Admin Offices,Administrative II,Brandon R. LeBlanc,1.71,5,3/11/2011,,0
+1661030607,"Pennsylvania, Estados Unidos",22/4/1961,Female,Admin Offices,Administrative II,Elijiah Gray,1.56,2,28/11/2012,,0
+1662070249,"California, Estados Unidos",22/5/1977,Female,Software Engineering,Engineer I,Alex Sweetwater,1.75,4,5/03/2011,,0
+1663294566,"California, Estados Unidos",28/8/1960,Male,Information Technlogy,Engineer I,Eric Dougall,1.88,4,11/05/2017,,0
+1668111034,"California, Estados Unidos",15/11/1986,Male,Production       ,Technician II,Kissy Sullivan,1.88,1,10/08/2017,,0
+1672350116,"Texas, Estados Unidos",21/7/1991,Female,Sales,Engineer I,John Smith,1.55,4,24/11/2020,31/12/2020,1
+1673538787,"Texas, Estados Unidos",18/6/1964,Male,Software Engineering,Engineer II,Alex Sweetwater,1.72,3,29/09/2017,,0
+1674496921,"North Dakota, Estados Unidos",14/6/1990,Male,Admin Offices,Administrative II,Elijiah Gray,1.62,1,11/08/2013,,0
+1675037390,"California, Estados Unidos",10/6/1976,Male,Information Technlogy,Engineer I,Simon Roup,1.93,1,17/05/2003,,0
+1677836535,"California, Estados Unidos",28/9/1980,Female,Admin Offices,Administrative II,Elijiah Gray,1.51,3,4/03/2005,,0
+1678799827,"California, Estados Unidos",24/10/1985,Female,Admin Offices,Administrative II,Elijiah Gray,1.61,4,9/05/2014,,0
+1682002642,"Texas, Estados Unidos",8/11/1977,Female,Production       ,Technician II,Amy Dunn,1.56,1,8/07/1998,,0
+1683843946,"California, Estados Unidos",26/4/1974,Female,Information Technlogy,Engineer II,Peter Monroe,1.66,3,20/10/2008,,0
+1687257650,"Massachusetts, Estados Unidos",18/6/1973,Male,Information Technlogy,Engineer II,Simon Roup,1.63,2,27/11/2012,,0
+1689965560,"California, Estados Unidos",27/11/1984,Male,Software Engineering     ,Manager,Janet King,1.77,3,28/04/2004,,0
+1690092777,"California, Estados Unidos",19/10/1968,Male,Production       ,Manager,Janet King,1.79,2,1/12/2004,16/11/2011,1
+1692431214,"Massachusetts, Estados Unidos",24/7/1960,Female,Admin Offices,Manager,Debra Houlihan,1.75,5,23/12/2011,29/08/2017,1
+1694263377,"Texas, Estados Unidos",20/4/1986,Female,Sales,Engineer I,John Smith,1.57,1,30/12/2012,26/06/2019,1
+1694519464,"Colorado, Estados Unidos",5/5/1988,Female,Admin Offices,Administrative I,Elijiah Gray,1.63,3,16/05/2012,,0
+1698932167,"Texas, Estados Unidos",1/8/1959,Female,Software Engineering,Engineer II,Alex Sweetwater,1.61,3,23/08/2009,,0
+1700145880,"Texas, Estados Unidos",3/8/1980,Female,Admin Offices,Administrative I,Elijiah Gray,1.66,3,17/09/2010,,0
+1700176739,"Massachusetts, Estados Unidos",9/9/1976,Female,Production       ,Director,Janet King,1.56,1,28/10/2012,,0
+1700908982,"Texas, Estados Unidos",2/6/1993,Male,Production       ,Technician I,Brannon Miller,1.71,1,14/11/2019,25/04/2020,1
+1701307581,"California, Estados Unidos",21/7/1966,Female,Production       ,Technician II,Kissy Sullivan,1.84,1,18/01/2006,,0
+1702291854,"Texas, Estados Unidos",23/11/1994,Male,Information Technlogy,Engineer I,Peter Monroe,1.84,5,17/06/2017,7/12/2018,1
+1703320365,"California, Estados Unidos",26/5/1955,Male,Information Technlogy,Manager,Jennifer Zamora,1.59,3,26/12/2012,,0
+1703764498,"California, Estados Unidos",21/3/1959,Male,Production       ,Manager,Janet King,1.77,1,9/07/2017,,0
+1704054236,"Texas, Estados Unidos",11/12/1955,Female,Sales,Engineer I,Lynn Daneault,1.56,5,15/10/2009,,0
+1704423461,"Massachusetts, Estados Unidos",10/12/1970,Female,Admin Offices,Administrative I,Brandon R. LeBlanc,1.74,4,20/01/2002,12/01/2015,1
+1704814092,"Texas, Estados Unidos",16/1/1975,Female,Production       ,Technician II,Amy Dunn,1.55,4,16/07/2007,,0
+1704875109,"Massachusetts, Estados Unidos",4/11/1988,Female,Production       ,Technician I,Brannon Miller,1.64,1,11/01/2013,,0
+1705734779,"California, Estados Unidos",4/3/1984,Male,Production       ,Technician II,Amy Dunn,1.94,5,10/02/2006,12/10/2009,1
+1708909119,"Massachusetts, Estados Unidos",20/3/1976,Male,Information Technlogy,Engineer II,Peter Monroe,1.65,3,23/08/2001,,0
+1713135499,"Texas, Estados Unidos",6/10/1967,Female,Admin Offices,Administrative II,Elijiah Gray,1.6,3,28/02/2020,,0
+1713432091,"California, Estados Unidos",9/11/1968,Female,Executive Office,Director,Board of Directors,1.87,3,23/07/2008,,0
+1714833402,"Texas, Estados Unidos",24/8/1967,Female,Information Technlogy,Engineer I,Simon Roup,1.75,5,17/04/2019,,0
+1717518301,"Massachusetts, Estados Unidos",3/5/1980,Male,Information Technlogy,Engineer II,Simon Roup,1.6,1,15/12/2009,,0
+1717681845,"Massachusetts, Estados Unidos",1/8/1975,Male,Information Technlogy,Engineer I,Simon Roup,1.87,1,27/12/1994,,0
+1718006563,"California, Estados Unidos",23/5/1980,Female,Production       ,Technician II,Kissy Sullivan,1.84,1,27/10/2005,2/09/2008,1
+1721194911,"California, Estados Unidos",27/4/1995,Male,Production       ,Technician II,Amy Dunn,1.95,2,23/06/2014,17/05/2017,1
+1723456612,"California, Estados Unidos",19/7/1972,Female,Production       ,Manager,Janet King,1.74,1,30/10/2011,,0
+1724496524,"Massachusetts, Estados Unidos",5/10/1969,Male,Admin Offices,Manager,Janet King,1.59,1,27/05/2004,,0
+1724739484,"Texas, Estados Unidos",23/6/1986,Male,Production       ,Technician II,Kelley Spirea,1.6,1,26/11/2006,,0
+1725430466,"California, Estados Unidos",14/6/1962,Male,Admin Offices,Administrative II,David Stanley,1.81,5,22/10/2009,,0
+1725777246,"Massachusetts, Estados Unidos",23/1/1990,Female,Production       ,Technician II,Elijiah Gray,1.62,1,3/07/2015,,0
+1725846641,"Massachusetts, Estados Unidos",22/6/1993,Male,Information Technlogy,Engineer I,Simon Roup,1.72,4,20/11/2016,7/11/2017,1
+1726024950,"Massachusetts, Estados Unidos",18/7/1962,Male,Admin Offices,Administrative I,Elijiah Gray,1.68,2,4/09/2018,,0
+1727339414,"California, Estados Unidos",8/7/1994,Female,Production       ,Technician II,Brannon Miller,1.54,2,29/08/2014,,0
+1727701455,"California, Estados Unidos",2/5/1968,Male,Production       ,Technician II,Brannon Miller,1.52,2,16/01/2018,,0
+1728741289,"California, Estados Unidos",8/6/1955,Male,Information Technlogy,Engineer I,Peter Monroe,1.84,5,1/02/1998,,0
+1731311148,"Texas, Estados Unidos",18/9/1968,Female,Sales,Director,Jennifer Zamora,1.82,1,29/01/2002,8/07/2002,1
+1731919113,"California, Estados Unidos",22/5/1984,Female,Software Engineering,Engineer II,Alex Sweetwater,1.68,4,27/04/2004,,0
+1732260810,"California, Estados Unidos",17/10/1986,Male,Admin Offices,Administrative II,Elijiah Gray,1.58,1,25/06/2005,,0
+1733125765,"Massachusetts, Estados Unidos",23/12/1979,Male,Production       ,Technician I,Brannon Miller,1.69,1,25/02/2006,28/11/2010,1
+1733293275,"Massachusetts, Estados Unidos",30/11/1968,Female,Information Technlogy,Engineer I,Eric Dougall,1.91,3,28/12/2006,,0
+1733328377,"Massachusetts, Estados Unidos",26/10/1993,Female,Production       ,Technician I,Brannon Miller,1.67,4,10/01/2014,3/04/2014,1
+1733474413,"Massachusetts, Estados Unidos",25/8/1991,Male,Information Technlogy,Engineer I,Simon Roup,1.76,3,29/08/2018,,0
+1734542536,"Texas, Estados Unidos",21/6/1979,Male,Software Engineering,Engineer II,Alex Sweetwater,1.66,5,10/08/2018,30/01/2020,1
+1735826395,"California, Estados Unidos",21/12/1970,Male,Admin Offices,Administrative I,Elijiah Gray,1.64,3,6/11/2011,1/02/2013,1
+1736791053,"California, Estados Unidos",24/10/1975,Female,Information Technlogy,Engineer I,Peter Monroe,1.52,5,3/11/2013,,0
+1737777035,"Texas, Estados Unidos",8/1/1994,Female,Production       ,Technician I,Brannon Miller,1.77,2,7/12/2020,20/12/2020,1
+1738868572,"California, Estados Unidos",3/3/1972,Male,Production       ,Technician II,Amy Dunn,1.95,2,11/08/2010,,0
+1739927153,"California, Estados Unidos",16/6/1988,Female,Production       ,Technician II,Brannon Miller,1.51,5,28/06/2007,25/07/2018,1
+1742154235,"Texas, Estados Unidos",29/3/1985,Male,Sales,Engineer II,Lynn Daneault,1.92,2,27/07/2003,,0
+1742869149,"Massachusetts, Estados Unidos",5/8/1959,Male,Admin Offices,Administrative I,Brandon R. LeBlanc,1.77,5,10/09/1999,25/02/2013,1
+1746554528,"Texas, Estados Unidos",12/3/1995,Male,Production       ,Manager,Janet King,1.77,1,17/08/2016,,0
+1746621783,"California, Estados Unidos",13/8/1991,Female,Information Technlogy,Engineer I,Simon Roup,1.8,4,9/11/2017,,0
+1747056354,"Texas, Estados Unidos",4/3/1988,Female,Production       ,Technician II,Kelley Spirea,1.55,4,13/10/2008,,0
+1748670065,"Ohio, Estados Unidos",6/10/1986,Female,Sales,Engineer II,John Smith,1.51,5,26/08/2012,,0
+1748719148,"Montana, Estados Unidos",4/12/1987,Female,Sales,Engineer I,John Smith,1.55,4,29/05/2006,,0
+1748974042,"Texas, Estados Unidos",14/4/1970,Male,Software Engineering,Engineer II,Alex Sweetwater,1.63,5,2/01/2018,,0
+1750900599,"Texas, Estados Unidos",13/4/1986,Female,Information Technlogy,Engineer I,Peter Monroe,1.74,5,11/02/2014,,0
+1753296151,"California, Estados Unidos",14/7/1973,Male,Production       ,Technician II,Michael Albert,1.81,4,28/10/2019,,0
+1753484466,"Massachusetts, Estados Unidos",26/7/1956,Male,Production       ,Technician I,Brannon Miller,1.71,1,3/05/2010,,0
+1753719214,"California, Estados Unidos",10/2/1991,Female,Production       ,Technician II,Michael Albert,1.83,4,28/09/2016,,0
+1754414834,"Texas, Estados Unidos",31/12/1996,Male,Sales,Engineer II,Lynn Daneault,1.92,2,3/12/2018,18/08/2019,1
+1756003151,"Texas, Estados Unidos",26/3/1982,Male,Information Technlogy,Engineer I,Peter Monroe,1.82,1,30/09/2002,,0
+1756706225,"Texas, Estados Unidos",20/8/1972,Female,Sales,Engineer II,John Smith,1.89,4,24/06/2012,,0
+1757319659,"Texas, Estados Unidos",7/12/1978,Female,Production       ,Technician II,Webster Butler,1.82,2,30/10/2004,,0
+1758097612,"California, Estados Unidos",18/8/1976,Female,Admin Offices,Administrative II,Brandon R. LeBlanc,1.72,5,31/10/2019,,0
+1758895477,"California, Estados Unidos",24/5/1969,Male,Production       ,Technician I,Amy Dunn,1.57,4,22/01/2013,,0
+1759563690,"Texas, Estados Unidos",3/8/1961,Male,Admin Offices,Administrative I,Brandon R. LeBlanc,1.78,5,15/11/2008,30/11/2008,1
+1761528789,"Texas, Estados Unidos",21/12/1975,Male,Software Engineering,Engineer I,Alex Sweetwater,1.74,5,22/10/1999,,0
+1761689012,"Texas, Estados Unidos",27/1/1990,Male,Production       ,Technician I,Brannon Miller,1.72,3,26/05/2014,12/09/2015,1
+1765164093,"California, Estados Unidos",14/2/1973,Female,Admin Offices,Administrative II,Elijiah Gray,1.52,5,3/12/1997,21/04/2007,1
+1765342497,"Massachusetts, Estados Unidos",8/5/1962,Male,Information Technlogy,Engineer II,Peter Monroe,1.69,3,9/05/2001,,0
+1765520407,"Massachusetts, Estados Unidos",28/8/1973,Male,Admin Offices,Administrative I,Elijiah Gray,1.64,3,18/05/2020,,0
+1765947179,"Massachusetts, Estados Unidos",3/6/1988,Male,Software Engineering,Engineer II,Alex Sweetwater,1.66,5,19/10/2011,,0
+1765990056,"Texas, Estados Unidos",25/4/1969,Male,Admin Offices,Administrative II,David Stanley,1.81,5,11/08/2015,18/01/2017,1
+1765997343,"Texas, Estados Unidos",29/10/1984,Female,Software Engineering,Engineer II,Alex Sweetwater,1.69,3,14/02/2006,,0
+1767775130,"Texas, Estados Unidos",20/8/1960,Female,Production       ,Technician II,Elijiah Gray,1.61,2,11/03/2003,,0
+1768042805,"Massachusetts, Estados Unidos",7/12/1972,Male,Admin Offices,Administrative I,David Stanley,1.83,1,4/04/2020,,0
+1769233739,"California, Estados Unidos",9/5/1993,Female,Information Technlogy,Engineer I,Eric Dougall,1.91,3,10/07/2014,,0
+1769958793,"Massachusetts, Estados Unidos",30/7/1972,Female,Production       ,Technician II,Elijiah Gray,1.59,4,3/05/2011,,0
+1770060152,"Texas, Estados Unidos",23/5/1990,Male,Information Technlogy,Engineer I,Peter Monroe,1.51,1,16/06/2009,,0
+1772197575,"Massachusetts, Estados Unidos",6/2/1993,Female,Executive Office,Director,Board of Directors,1.53,3,11/04/2020,13/05/2020,1
+1774552068,"Massachusetts, Estados Unidos",10/6/1989,Male,Production       ,Technician II,Brannon Miller,1.72,5,17/08/2017,,0
+1775716841,"California, Estados Unidos",29/4/1972,Male,Admin Offices,Administrative II,Elijiah Gray,1.62,1,27/04/2010,2/08/2012,1
+1775738077,"California, Estados Unidos",28/3/1997,Female,Admin Offices,Administrative I,Elijiah Gray,1.67,5,25/11/2015,,0
+1777131739,"Massachusetts, Estados Unidos",7/8/1959,Female,Production       ,Technician I,Brannon Miller,1.6,1,10/06/2010,,0
+1778747179,"California, Estados Unidos",7/4/1966,Female,Admin Offices,Administrative I,Brandon R. LeBlanc,1.74,4,26/01/2001,6/06/2007,1
+1779058455,"Massachusetts, Estados Unidos",30/9/1975,Female,Admin Offices,Manager,Elijiah Gray,1.55,1,23/11/2016,26/12/2020,1
+1779241832,"Massachusetts, Estados Unidos",10/7/1979,Female,Production       ,Technician I,Amy Dunn,1.65,5,15/05/2016,2/06/2018,1
+1780938010,"Texas, Estados Unidos",23/7/1991,Female,Software Engineering,Engineer II,Alex Sweetwater,1.67,5,9/11/2015,,0
+1782271307,"Texas, Estados Unidos",4/4/1987,Female,Production       ,Technician I,Brannon Miller,1.61,2,18/07/2008,,0
+1784376858,"Massachusetts, Estados Unidos",29/10/1964,Male,Admin Offices,Administrative I,Brandon R. LeBlanc,1.78,5,3/05/2019,15/12/2020,1
+1785161891,"Texas, Estados Unidos",26/1/1990,Male,Admin Offices,Administrative II,David Stanley,1.81,5,15/02/2018,16/02/2019,1
+1785306352,"Texas, Estados Unidos",6/6/1970,Female,Sales,Engineer I,Lynn Daneault,1.58,1,20/08/1997,29/03/2017,1
+1789077793,"Massachusetts, Estados Unidos",31/7/1971,Female,Production       ,Technician II,Kelley Spirea,1.63,1,19/11/2001,7/07/2003,1
+1789917383,"Texas, Estados Unidos",13/6/1955,Male,Sales,Engineer II,John Smith,1.87,5,5/06/2002,,0
+1790203644,"Massachusetts, Estados Unidos",1/2/1983,Male,Production       ,Technician II,Kelley Spirea,1.65,5,25/03/2010,,0
+1790663234,"Texas, Estados Unidos",22/4/1991,Male,Information Technlogy,Engineer II,Peter Monroe,1.65,3,10/03/2011,9/01/2012,1
+1790719149,"Texas, Estados Unidos",13/2/1956,Male,Admin Offices,Administrative I,Brandon R. LeBlanc,1.76,4,10/10/2012,,0
+1791140092,"Massachusetts, Estados Unidos",6/3/1977,Male,Admin Offices,Administrative I,Brandon R. LeBlanc,1.76,4,6/07/2017,,0
+1791243308,"California, Estados Unidos",22/12/1973,Female,Executive Office,Director,Board of Directors,1.51,3,25/12/2004,18/10/2008,1
+1794761897,"Massachusetts, Estados Unidos",22/7/1969,Female,Production       ,Technician I,Amy Dunn,1.79,3,28/10/2005,,0
+1795022570,"California, Estados Unidos",8/8/1956,Male,Admin Offices,Manager,Janet King,1.54,5,8/02/2020,,0
+1795359599,"California, Estados Unidos",11/8/1995,Male,Information Technlogy,Manager,Jennifer Zamora,1.59,3,16/10/2013,,0
+1796337521,"Massachusetts, Estados Unidos",21/5/1960,Female,Information Technlogy,Engineer I,Simon Roup,1.7,4,11/04/1998,,0
+1796585226,"Texas, Estados Unidos",2/9/1984,Female,Software Engineering,Engineer II,Alex Sweetwater,1.59,2,8/04/2009,,0
+1798474303,"Texas, Estados Unidos",5/1/1969,Male,Admin Offices,Administrative I,David Stanley,1.82,1,21/11/1989,,0
+1798555969,"California, Estados Unidos",11/7/1980,Female,Production       ,Technician I,Brannon Miller,1.6,1,5/09/2019,11/11/2019,1
+1799102338,"Texas, Estados Unidos",11/4/1989,Male,Admin Offices,Administrative I,Brandon R. LeBlanc,1.77,5,3/10/2015,,0
+1802101920,"California, Estados Unidos",7/5/1961,Male,Information Technlogy,Engineer II,Peter Monroe,1.65,3,17/04/2002,25/05/2006,1
+1802304728,"Texas, Estados Unidos",11/2/1992,Male,Information Technlogy,Engineer II,Peter Monroe,1.68,1,18/01/2011,3/02/2012,1
+1803163129,"California, Estados Unidos",28/7/1976,Female,Production       ,Technician II,Brannon Miller,1.54,2,2/10/1999,,0
+1806077162,"Texas, Estados Unidos",12/2/1964,Male,Production       ,Technician II,Michael Albert,1.81,4,17/11/2019,,0
+1806216461,"Massachusetts, Estados Unidos",12/8/1995,Male,Admin Offices,Administrative II,David Stanley,1.81,5,26/03/2021,,0
+1807989355,"Massachusetts, Estados Unidos",1/3/1993,Male,Information Technlogy,Manager,Janet King,1.58,4,30/11/2019,26/08/2020,1
+1809290641,"Texas, Estados Unidos",13/9/1964,Male,Information Technlogy,Engineer I,Simon Roup,1.79,4,19/09/2001,,0
+1809470944,"Texas, Estados Unidos",26/4/1967,Male,Production       ,Technician I,Amy Dunn,1.74,4,15/07/2001,,0
+1812387400,"California, Estados Unidos",2/1/1975,Male,Information Technlogy,Manager,Jennifer Zamora,1.57,5,4/02/2019,26/08/2019,1
+1812714530,"Texas, Estados Unidos",14/8/1997,Female,Production       ,Manager,Janet King,1.75,3,24/03/2001,,0
+1812963180,"California, Estados Unidos",24/9/1963,Female,Information Technlogy,Engineer I,Peter Monroe,1.92,2,14/12/1999,,0
+1813600633,"Texas, Estados Unidos",21/8/1994,Male,Production       ,Manager,Janet King,1.78,2,21/03/2014,,0
+1817168060,"Texas, Estados Unidos",1/3/1965,Male,Sales,Engineer II,John Smith,1.9,1,12/10/2010,,0
+1821328027,"Idaho, Estados Unidos",9/12/1959,Male,Sales,Engineer II,John Smith,1.85,2,21/11/1978,,0
+1821491937,"Texas, Estados Unidos",29/8/1958,Male,Sales,Director,Janet King,1.83,5,20/01/2003,22/04/2010,1
+1822271120,"Massachusetts, Estados Unidos",28/3/1966,Male,Information Technlogy,Engineer I,Peter Monroe,1.51,1,25/02/2014,,0
+1823328095,"Texas, Estados Unidos",12/9/1963,Female,Production       ,Manager,Jennifer Zamora,1.53,2,26/11/2001,,0
+1830262111,"California, Estados Unidos",18/4/1958,Male,Information Technlogy,Engineer II,Simon Roup,1.6,1,1/06/2013,2/09/2015,1
+1833141769,"California, Estados Unidos",17/4/1991,Male,Production       ,Technician II,Amy Dunn,1.94,5,20/09/2011,,0
+1835906120,"Texas, Estados Unidos",1/2/1995,Male,Production       ,Technician I,Brannon Miller,1.66,1,19/04/2016,29/07/2017,1
+1836051967,"Texas, Estados Unidos",1/11/1995,Female,Production       ,Technician I,Brannon Miller,1.59,5,25/02/2015,11/12/2015,1
+1836466531,"Texas, Estados Unidos",6/10/1972,Female,Production       ,Manager,Janet King,1.75,3,26/12/1999,,0
+1836648488,"Texas, Estados Unidos",30/5/1986,Female,Production       ,Technician II,Webster Butler,1.8,4,18/04/2013,,0
+1838730846,"Texas, Estados Unidos",11/7/1978,Female,Production       ,Manager,Janet King,1.75,3,23/03/2008,17/06/2010,1
+1839414858,"Texas, Estados Unidos",14/1/1979,Female,Admin Offices,Administrative I,Brandon R. LeBlanc,1.73,1,9/10/2001,10/09/2005,1
+1839428610,"Texas, Estados Unidos",7/3/1977,Male,Production       ,Technician I,Elijiah Gray,1.67,5,13/05/2012,13/03/2014,1
+1842036603,"Texas, Estados Unidos",11/2/1994,Female,Production       ,Technician I,Brannon Miller,1.6,1,14/07/2020,28/11/2020,1
+1842712580,"Texas, Estados Unidos",22/11/1962,Male,Admin Offices,Administrative I,David Stanley,1.82,1,24/03/2006,,0
+1844906376,"Texas, Estados Unidos",7/7/1989,Female,Software Engineering,Engineer II,Alex Sweetwater,1.59,2,4/10/2013,,0
+1845068551,"California, Estados Unidos",18/8/1982,Male,Production       ,Technician II,Kelley Spirea,1.6,1,5/12/2000,,0
+1845177154,"Texas, Estados Unidos",18/8/1995,Female,Sales,Engineer I,John Smith,1.55,4,25/10/2013,,0
+1847101851,"Texas, Estados Unidos",16/12/1977,Female,Admin Offices,Administrative I,David Stanley,1.85,4,6/05/2009,16/05/2020,1
+1848084254,"Massachusetts, Estados Unidos",6/9/1968,Male,Production       ,Manager,Janet King,1.78,2,1/04/1989,,0
+1849569415,"California, Estados Unidos",21/1/1981,Female,Production       ,Technician I,Brannon Miller,1.59,5,19/12/2001,21/08/2013,1
+1851445113,"North Dakota, Estados Unidos",13/1/1973,Male,Sales,Engineer I,Lynn Daneault,1.53,4,8/01/1999,,0
+1851964647,"Texas, Estados Unidos",4/3/1964,Male,Sales,Director,Janet King,1.83,5,21/10/1998,,0
+1852451710,"Texas, Estados Unidos",13/9/1963,Male,Admin Offices,Administrative I,Brandon R. LeBlanc,1.76,4,16/07/2010,,0
+1852535481,"Massachusetts, Estados Unidos",22/12/1994,Female,Admin Offices,Administrative II,Brandon R. LeBlanc,1.71,5,5/12/2014,,0
+1852698187,"California, Estados Unidos",22/1/1987,Female,Information Technlogy,Engineer II,Simon Roup,1.61,3,16/11/2011,9/02/2012,1
+1856214483,"Texas, Estados Unidos",29/10/1985,Female,Sales,Engineer II,Lynn Daneault,1.91,1,1/08/2018,,0
+1856761069,"California, Estados Unidos",6/5/1974,Female,Admin Offices,Administrative II,Elijiah Gray,1.61,4,9/10/2014,5/09/2018,1
+1857831286,"Texas, Estados Unidos",5/8/1955,Female,Production       ,Technician II,Kelley Spirea,1.57,3,15/12/1999,,0
+1860231321,"Massachusetts, Estados Unidos",24/2/1974,Female,Information Technlogy,Engineer I,Eric Dougall,1.9,3,9/07/2001,,0
+1860548818,"Texas, Estados Unidos",11/5/1965,Female,Sales,Engineer II,John Smith,1.89,4,27/09/2009,,0
+1861399644,"California, Estados Unidos",23/8/1965,Female,Information Technlogy,Engineer II,Simon Roup,1.61,3,19/01/1998,,0
+1863891780,"Texas, Estados Unidos",1/5/1992,Male,Software Engineering,Engineer II,Alex Sweetwater,1.63,5,7/05/2013,13/05/2019,1
+1866829975,"Massachusetts, Estados Unidos",15/9/1989,Female,Information Technlogy,Engineer I,Simon Roup,1.75,5,4/10/2009,27/08/2010,1
+1868230756,"California, Estados Unidos",17/9/1959,Male,Admin Offices,Administrative I,Elijiah Gray,1.68,2,7/10/2018,13/09/2019,1
+1868374166,"Texas, Estados Unidos",29/5/1961,Male,Production       ,Technician II,Amy Dunn,1.86,1,28/07/2012,29/10/2016,1
+1869568032,"California, Estados Unidos",18/12/1961,Male,Production       ,Technician II,Kissy Sullivan,1.88,1,20/08/2011,,0
+1869987513,"Nevada, Estados Unidos",4/9/1979,Male,Sales,Engineer II,Lynn Daneault,1.92,2,13/11/2002,,0
+1871351282,"Massachusetts, Estados Unidos",28/2/1989,Female,Production       ,Technician II,Elijiah Gray,1.61,2,8/02/2018,,0
+1872264296,"Massachusetts, Estados Unidos",26/10/1991,Male,Information Technlogy,Engineer I,Peter Monroe,1.71,4,28/12/2015,,0
+1874670384,"California, Estados Unidos",13/11/1958,Female,Admin Offices,Manager,David Stanley,1.69,1,22/11/2014,,0
+1874846013,"Colorado, Estados Unidos",6/5/1980,Female,Admin Offices,Administrative II,Elijiah Gray,1.56,2,29/10/2009,,0
+1875566847,"California, Estados Unidos",7/6/1969,Female,Production       ,Technician II,Amy Dunn,1.9,4,31/08/2016,,0
+1875966207,"California, Estados Unidos",5/12/1971,Male,Production       ,Technician I,Amy Dunn,1.57,4,28/07/2013,,0
+1876165785,"California, Estados Unidos",3/1/1981,Male,Production       ,Technician II,Amy Dunn,1.86,1,29/11/2001,,0
+1878386200,"Massachusetts, Estados Unidos",15/1/1982,Female,Production       ,Technician II,Kelley Spirea,1.55,4,11/10/2006,,0
+1879786432,"California, Estados Unidos",13/9/1973,Male,Executive Office,Director,Board of Directors,1.55,3,16/09/2003,,0
+1880648277,"Texas, Estados Unidos",9/7/1970,Female,Production       ,Technician II,Amy Dunn,1.55,4,19/06/2000,10/08/2016,1
+1881186033,"Texas, Estados Unidos",3/1/1971,Male,Information Technlogy,Engineer I,Peter Monroe,1.82,1,29/04/2019,,0
+1883102834,"Texas, Estados Unidos",19/3/1968,Female,Admin Offices,Administrative I,David Stanley,1.85,4,15/01/2007,23/08/2019,1
+1885865658,"California, Estados Unidos",2/3/1985,Male,Admin Offices,Administrative I,Elijiah Gray,1.68,2,29/05/2019,,0
+1890466647,"Texas, Estados Unidos",6/7/1989,Female,Production       ,Technician I,Brannon Miller,1.68,5,7/09/2017,30/12/2018,1
+1890632046,"Texas, Estados Unidos",4/5/1993,Male,Information Technlogy,Engineer I,Peter Monroe,1.51,1,18/06/2014,,0
+1891761797,"Massachusetts, Estados Unidos",31/3/1969,Female,Production       ,Technician II,Webster Butler,1.85,5,12/11/2002,,0
+1891934420,"Massachusetts, Estados Unidos",14/8/1983,Female,Production       ,Technician I,Brannon Miller,1.78,5,16/04/2017,8/10/2017,1
+1893044756,"Texas, Estados Unidos",18/2/1960,Female,Admin Offices,Administrative I,Elijiah Gray,1.67,5,19/05/2016,,0
+1893359636,"Texas, Estados Unidos",16/8/1981,Male,Sales,Engineer II,John Smith,1.85,2,12/06/2010,,0
+1897959217,"Oregon, Estados Unidos",22/1/1964,Female,Admin Offices,Administrative II,Elijiah Gray,1.51,3,6/06/2012,,0
+1900096130,"Texas, Estados Unidos",28/9/1972,Female,Admin Offices,Administrative I,David Stanley,1.84,1,6/06/2002,25/02/2013,1
+1900777474,"California, Estados Unidos",26/6/1989,Female,Admin Offices,Administrative II,Elijiah Gray,1.57,5,17/12/2008,22/02/2012,1
+1902455227,"Massachusetts, Estados Unidos",4/11/1970,Male,Production       ,Technician II,Kissy Sullivan,1.88,1,31/05/1994,,0
+1903882580,"Texas, Estados Unidos",13/4/1978,Female,Sales,Engineer II,John Smith,1.51,5,18/06/2016,,0
+1905670835,"Texas, Estados Unidos",27/11/1978,Female,Admin Offices,Manager,Debra Houlihan,1.75,5,22/05/2014,,0
+1905844265,"Texas, Estados Unidos",9/8/1975,Female,Production       ,Technician II,Amy Dunn,1.9,4,14/09/1996,,0
+1905853448,"Massachusetts, Estados Unidos",15/10/1995,Male,Production       ,Technician I,Kelley Spirea,1.66,4,10/09/2020,,0
+1907911258,"California, Estados Unidos",7/8/1990,Female,Production       ,Technician II,Amy Dunn,1.91,1,2/12/2012,22/02/2019,1
+1909908565,"California, Estados Unidos",7/6/1981,Female,Production       ,Technician II,Amy Dunn,1.91,1,19/10/2016,,0
+1910825742,"Massachusetts, Estados Unidos",2/10/1975,Male,Production       ,Manager,Janet King,1.77,1,22/10/1993,,0
+1918391235,"Texas, Estados Unidos",16/1/1957,Female,Information Technlogy,Engineer II,Peter Monroe,1.67,1,8/04/1983,,0
+1918546297,"Texas, Estados Unidos",19/11/1959,Male,Sales,Engineer II,John Smith,1.86,3,28/02/2017,,0
+1919566831,"Massachusetts, Estados Unidos",19/5/1988,Female,Executive Office,Director,Board of Directors,1.51,3,4/07/2011,,0
+1919983042,"California, Estados Unidos",6/2/1985,Female,Admin Offices,Administrative II,Elijiah Gray,1.57,5,22/06/2010,,0
+1921344283,"California, Estados Unidos",1/2/1988,Male,Production       ,Technician I,Kelley Spirea,1.71,5,28/03/2014,3/09/2014,1
+1921748997,"Massachusetts, Estados Unidos",20/4/1978,Female,Production       ,Technician II,Brannon Miller,1.92,5,11/02/2015,,0
+1927569728,"Massachusetts, Estados Unidos",10/8/1968,Female,Production       ,Technician II,Kissy Sullivan,1.84,1,23/07/1989,,0
+1928683967,"Massachusetts, Estados Unidos",23/8/1968,Male,Production       ,Technician I,Brannon Miller,1.71,1,22/10/2006,,0
+1931068467,"Texas, Estados Unidos",7/5/1962,Female,Sales,Engineer I,John Smith,1.57,1,13/01/2013,,0
+1933047948,"Massachusetts, Estados Unidos",28/7/1974,Male,Information Technlogy,Engineer II,Peter Monroe,1.65,3,20/06/2008,,0
+1934293950,"California, Estados Unidos",14/12/1974,Male,Executive Office,Director,Board of Directors,1.52,3,4/07/2009,,0
+1935009289,"Ohio, Estados Unidos",25/9/1982,Female,Admin Offices,Administrative II,Elijiah Gray,1.6,3,13/03/2016,27/06/2020,1
+1935224969,"Texas, Estados Unidos",1/10/1991,Female,Software Engineering,Engineer II,Alex Sweetwater,1.6,5,29/12/2016,1/11/2019,1
+1935858339,"California, Estados Unidos",3/4/1970,Male,Admin Offices,Administrative I,Elijiah Gray,1.68,2,5/09/2000,10/11/2004,1
+1938628607,"Massachusetts, Estados Unidos",10/6/1969,Male,Admin Offices,Manager,Janet King,1.54,5,30/08/1990,,0
+1939535520,"California, Estados Unidos",4/2/1995,Male,Production       ,Manager,Janet King,1.77,1,2/07/2019,,0
+1941613604,"California, Estados Unidos",21/11/1967,Female,Production       ,Technician I,Brannon Miller,1.64,1,20/11/2005,,0
+1942376802,"Texas, Estados Unidos",13/2/1963,Female,Sales,Engineer II,John Smith,1.51,5,22/12/2013,,0
+1943082438,"California, Estados Unidos",5/6/1974,Male,Production       ,Technician II,Amy Dunn,1.93,1,5/05/2001,,0
+1944133410,"California, Estados Unidos",20/4/1959,Male,Information Technlogy,Engineer II,Peter Monroe,1.65,3,1/07/2005,,0
+1944652508,"California, Estados Unidos",25/6/1991,Female,Admin Offices,Administrative I,David Stanley,1.84,1,29/05/2013,,0
+1944785282,"Pennsylvania, Estados Unidos",9/11/1964,Female,Sales,Engineer II,John Smith,1.89,4,26/07/1985,,0
+1945038767,"Massachusetts, Estados Unidos",29/9/1978,Female,Production       ,Technician I,Elijiah Gray,1.73,4,4/07/2015,30/05/2016,1
+1946401637,"Massachusetts, Estados Unidos",21/8/1961,Female,Production       ,Technician I,Brannon Miller,1.68,5,2/08/2006,,0
+1947149188,"California, Estados Unidos",5/5/1959,Female,Admin Offices,Administrative II,Elijiah Gray,1.57,5,25/09/2004,,0
+1950713079,"Massachusetts, Estados Unidos",21/11/1963,Male,Production       ,Manager,Janet King,1.78,2,3/04/2013,,0
+1956312311,"California, Estados Unidos",22/1/1967,Female,Production       ,Technician II,Amy Dunn,1.91,1,20/10/2003,,0
+1958030743,"Texas, Estados Unidos",2/5/1992,Female,Software Engineering,Engineer II,Alex Sweetwater,1.61,3,25/06/2012,,0
+1958280762,"California, Estados Unidos",18/2/1980,Female,Information Technlogy,Engineer II,Peter Monroe,1.66,3,13/10/2014,12/04/2019,1
+1958380293,"California, Estados Unidos",8/8/1956,Female,Information Technlogy,Engineer I,Eric Dougall,1.86,4,24/08/2010,,0
+1959437310,"Texas, Estados Unidos",23/4/1979,Female,Sales,Engineer II,Lynn Daneault,1.84,2,27/08/2011,,0
+1961057049,"California, Estados Unidos",20/9/1977,Male,Production       ,Technician II,Brannon Miller,1.72,5,16/12/2003,,0
+1962533249,"Texas, Estados Unidos",4/3/1972,Female,Software Engineering,Engineer II,Alex Sweetwater,1.64,5,19/08/1995,,0
+1962597788,"Idaho, Estados Unidos",25/11/1956,Female,Admin Offices,Administrative II,Elijiah Gray,1.52,5,12/09/2018,,0
+1962707333,"California, Estados Unidos",10/8/1973,Female,Sales,Director,Jennifer Zamora,1.82,1,3/01/1997,,0
+1964364550,"Massachusetts, Estados Unidos",19/2/1989,Female,Information Technlogy,Engineer I,Simon Roup,1.83,4,28/11/2007,23/02/2009,1
+1965518004,"Texas, Estados Unidos",22/7/1985,Female,Software Engineering,Engineer I,Alex Sweetwater,1.65,5,27/09/2003,,0
+1966683367,"Texas, Estados Unidos",13/7/1969,Male,Sales,Director,Jennifer Zamora,1.81,4,28/08/2009,,0
+1966981940,"Massachusetts, Estados Unidos",4/9/1982,Female,Production       ,Manager,Janet King,1.74,1,8/09/2020,20/11/2020,1
+1967394481,"Massachusetts, Estados Unidos",18/3/1958,Female,Production       ,Director,Janet King,1.56,1,10/04/1994,,0
+1968081932,"Texas, Estados Unidos",2/1/1958,Female,Admin Offices,Administrative II,David Stanley,1.8,4,15/12/2001,12/04/2018,1
+1969373934,"California, Estados Unidos",6/11/1986,Male,Production       ,Manager,Jennifer Zamora,1.54,3,31/12/2016,,0
+1969528628,"Texas, Estados Unidos",16/12/1975,Male,Admin Offices,Manager,Debra Houlihan,1.53,1,13/08/2007,,0
+1969890219,"Texas, Estados Unidos",7/4/1993,Female,Software Engineering,Engineer II,Alex Sweetwater,1.6,5,2/02/2012,,0
+1971208389,"Massachusetts, Estados Unidos",27/6/1958,Female,Production       ,Technician II,Brannon Miller,1.63,4,3/08/2004,,0
+1971359521,"Texas, Estados Unidos",30/11/1979,Female,Software Engineering,Engineer I,Alex Sweetwater,1.73,1,29/05/2001,,0
+1972272536,"Massachusetts, Estados Unidos",21/8/1986,Female,Admin Offices,Administrative I,Elijiah Gray,1.67,5,11/11/2016,,0
+1973054343,"Texas, Estados Unidos",8/9/1970,Male,Information Technlogy,Engineer II,Peter Monroe,1.69,3,22/11/2002,,0
+1974483602,"California, Estados Unidos",16/2/1956,Male,Executive Office,Director,Board of Directors,1.54,2,31/12/2005,24/01/2020,1
+1977801416,"Texas, Estados Unidos",14/9/1990,Male,Production       ,Technician I,Brannon Miller,1.69,1,10/02/2012,14/10/2012,1
+1979456787,"Texas, Estados Unidos",8/8/1982,Male,Software Engineering,Engineer I,Alex Sweetwater,1.76,5,21/11/2000,,0
+1979754999,"Texas, Estados Unidos",25/2/1987,Female,Admin Offices,Manager,Debra Houlihan,1.75,5,19/12/2005,,0
+1980932387,"Texas, Estados Unidos",26/10/1969,Male,Software Engineering,Engineer I,Alex Sweetwater,1.74,5,21/10/2005,8/05/2019,1
+1980951158,"Texas, Estados Unidos",18/3/1955,Male,Production       ,Technician I,Amy Dunn,1.7,1,1/02/2003,,0
+1981672731,"Massachusetts, Estados Unidos",22/5/1971,Male,Production       ,Technician I,Brannon Miller,1.66,1,28/11/2001,,0
+1982541028,"California, Estados Unidos",14/1/1991,Female,Production       ,Technician II,Kissy Sullivan,1.84,1,3/04/2011,,0
+1983304198,"California, Estados Unidos",26/4/1991,Female,Production       ,Technician I,Michael Albert,1.89,4,7/04/2010,,0
+1983573588,"Texas, Estados Unidos",1/8/1956,Male,Software Engineering,Engineer II,Alex Sweetwater,1.62,5,5/02/2000,15/08/2012,1
+1983692275,"Texas, Estados Unidos",4/8/1995,Female,Production       ,Technician I,Amy Dunn,1.76,1,28/02/2014,,0
+1984069816,"California, Estados Unidos",28/8/1984,Female,Production       ,Technician I,Amy Dunn,1.58,1,6/05/2008,,0
+1984391342,"Indiana, Estados Unidos",29/5/1976,Male,Admin Offices,Administrative II,David Stanley,1.65,2,9/04/2009,,0
+1984607258,"Massachusetts, Estados Unidos",3/9/1977,Male,Information Technlogy,Engineer II,Peter Monroe,1.69,3,3/11/2010,,0
+1984936014,"Texas, Estados Unidos",15/5/1968,Male,Software Engineering,Engineer II,Alex Sweetwater,1.62,5,29/08/2004,,0
+1986754663,"California, Estados Unidos",11/11/1960,Female,Admin Offices,Administrative II,Elijiah Gray,1.6,3,18/11/2017,,0
+1918391235,"Texas, Estados Unidos",16/1/1957,Female,Information Technlogy,Engineer II,Peter Monroe,1.67,1,8/04/1983,,0
+1918546297,"Texas, Estados Unidos",19/11/1959,Male,Sales,Engineer II,John Smith,1.86,3,28/02/2017,,0
+1919566831,"Massachusetts, Estados Unidos",19/5/1988,Female,Executive Office,Director,Board of Directors,1.51,3,4/07/2011,,0
+1919983042,"California, Estados Unidos",6/2/1985,Female,Admin Offices,Administrative II,Elijiah Gray,1.57,5,22/06/2010,,0
+1921344283,"California, Estados Unidos",1/2/1988,Male,Production       ,Technician I,Kelley Spirea,1.71,5,28/03/2014,3/09/2014,1
+1921748997,"Massachusetts, Estados Unidos",20/4/1978,Female,Production       ,Technician II,Brannon Miller,1.92,5,11/02/2015,,0
+1927569728,"Massachusetts, Estados Unidos",10/8/1968,Female,Production       ,Technician II,Kissy Sullivan,1.84,1,23/07/1989,,0
+1928683967,"Massachusetts, Estados Unidos",23/8/1968,Male,Production       ,Technician I,Brannon Miller,1.71,1,22/10/2006,,0
+1931068467,"Texas, Estados Unidos",7/5/1962,Female,Sales,Engineer I,John Smith,1.57,1,13/01/2013,,0
+1933047948,"Massachusetts, Estados Unidos",28/7/1974,Male,Information Technlogy,Engineer II,Peter Monroe,1.65,3,20/06/2008,,0
+1934293950,"California, Estados Unidos",14/12/1974,Male,Executive Office,Director,Board of Directors,1.52,3,4/07/2009,,0
+1935009289,"Ohio, Estados Unidos",25/9/1982,Female,Admin Offices,Administrative II,Elijiah Gray,1.6,3,13/03/2016,27/06/2020,1
+1935224969,"Texas, Estados Unidos",1/10/1991,Female,Software Engineering,Engineer II,Alex Sweetwater,1.6,5,29/12/2016,1/11/2019,1
+1935858339,"California, Estados Unidos",3/4/1970,Male,Admin Offices,Administrative I,Elijiah Gray,1.68,2,5/09/2000,10/11/2004,1
+1938628607,"Massachusetts, Estados Unidos",10/6/1969,Male,Admin Offices,Manager,Janet King,1.54,5,30/08/1990,,0
+1939535520,"California, Estados Unidos",4/2/1995,Male,Production       ,Manager,Janet King,1.77,1,2/07/2019,,0
+1941613604,"California, Estados Unidos",21/11/1967,Female,Production       ,Technician I,Brannon Miller,1.64,1,20/11/2005,,0
+1942376802,"Texas, Estados Unidos",13/2/1963,Female,Sales,Engineer II,John Smith,1.51,5,22/12/2013,,0
+1943082438,"California, Estados Unidos",5/6/1974,Male,Production       ,Technician II,Amy Dunn,1.93,1,5/05/2001,,0
+1944133410,"California, Estados Unidos",20/4/1959,Male,Information Technlogy,Engineer II,Peter Monroe,1.65,3,1/07/2005,,0
+1944652508,"California, Estados Unidos",25/6/1991,Female,Admin Offices,Administrative I,David Stanley,1.84,1,29/05/2013,,0
+1944785282,"Pennsylvania, Estados Unidos",9/11/1964,Female,Sales,Engineer II,John Smith,1.89,4,26/07/1985,,0
+1945038767,"Massachusetts, Estados Unidos",29/9/1978,Female,Production       ,Technician I,Elijiah Gray,1.73,4,4/07/2015,30/05/2016,1
+1946401637,"Massachusetts, Estados Unidos",21/8/1961,Female,Production       ,Technician I,Brannon Miller,1.68,5,2/08/2006,,0
+1947149188,"California, Estados Unidos",5/5/1959,Female,Admin Offices,Administrative II,Elijiah Gray,1.57,5,25/09/2004,,0
+1950713079,"Massachusetts, Estados Unidos",21/11/1963,Male,Production       ,Manager,Janet King,1.78,2,3/04/2013,,0
+603951078,"California, Estados Unidos",6/7/1989,Female,Admin Offices,Administrative II,Elijiah Gray,1.61,4,4/01/2014,,0
+605083858,"California, Estados Unidos",21/2/1967,Male,Production       ,Technician II,Kissy Sullivan,1.87,2,8/11/2004,,0
+605803026,"Indiana, Estados Unidos",17/4/1956,Male,Admin Offices,Administrative II,David Stanley,1.65,2,31/07/2018,16/10/2019,1
+608272609,"Massachusetts, Estados Unidos",11/10/1993,Male,Production       ,Technician I,Brannon Miller,1.69,1,20/04/2014,,0
+609719271,"Massachusetts, Estados Unidos",16/9/1983,Male,Production       ,Technician I,Elijiah Gray,1.67,5,26/04/2008,,0
+610475894,"California, Estados Unidos",12/5/1992,Female,Admin Offices,Administrative I,Elijiah Gray,1.67,5,18/02/2012,,0
+612207722,"Massachusetts, Estados Unidos",20/3/1993,Male,Production       ,Manager,Janet King,1.76,3,24/03/2017,20/05/2019,1
+612757913,"Massachusetts, Estados Unidos",17/11/1981,Female,Information Technlogy,Engineer II,Peter Monroe,1.66,3,17/11/2012,,0
+615671219,"Massachusetts, Estados Unidos",18/2/1959,Male,Information Technlogy,Engineer II,Peter Monroe,1.69,3,18/01/2006,,0
+615944114,"California, Estados Unidos",15/10/1979,Female,Admin Offices,Administrative I,Brandon R. LeBlanc,1.79,3,10/11/1998,,0
+616137502,"Massachusetts, Estados Unidos",5/11/1977,Female,Production       ,Technician I,Brannon Miller,1.67,4,12/07/2000,,0
+616802009,"California, Estados Unidos",11/10/1996,Female,Admin Offices,Administrative I,Elijiah Gray,1.67,5,19/11/2016,7/12/2018,1
+617085408,"California, Estados Unidos",21/8/1955,Female,Production       ,Technician II,Brannon Miller,1.54,2,23/02/2004,24/10/2006,1
+618576664,"Texas, Estados Unidos",4/9/1970,Female,Production       ,Technician II,Amy Dunn,1.91,1,24/07/1994,,0
+619628219,"California, Estados Unidos",2/4/1972,Female,Admin Offices,Manager,Elijiah Gray,1.55,1,14/04/1998,14/09/1998,1
+621283476,"California, Estados Unidos",11/9/1961,Male,Information Technlogy,Director,Jennifer Zamora,1.56,3,19/06/1999,,0
+622761422,"North Dakota, Estados Unidos",6/8/1991,Male,Admin Offices,Administrative II,Elijiah Gray,1.62,1,13/07/2012,27/12/2012,1
+623381710,"Texas, Estados Unidos",22/10/1988,Female,Information Technlogy,Engineer I,Simon Roup,1.81,4,3/09/2017,11/09/2020,1
+625157632,"California, Estados Unidos",11/11/1981,Male,Software Engineering,Engineer II,Alex Sweetwater,1.63,5,22/01/2011,,0
+626034297,"Texas, Estados Unidos",13/5/1992,Female,Software Engineering,Engineer II,Alex Sweetwater,1.69,3,15/11/2015,4/01/2017,1
+626868646,"Texas, Estados Unidos",8/4/1967,Male,Sales,Engineer II,Lynn Daneault,1.92,2,5/02/2014,,0
+626953044,"California, Estados Unidos",6/6/1997,Female,Production       ,Technician II,Michael Albert,1.83,4,19/10/2020,,0
+627121057,"California, Estados Unidos",28/8/1973,Male,Production       ,Technician II,Brannon Miller,1.52,2,22/11/2010,20/04/2019,1
+627347519,"Texas, Estados Unidos",13/5/1956,Female,Admin Offices,Administrative I,David Stanley,1.84,1,27/12/2006,16/10/2017,1
+628806453,"Texas, Estados Unidos",27/12/1990,Male,Software Engineering,Engineer I,Alex Sweetwater,1.74,5,1/04/2017,,0
+630290965,"Texas, Estados Unidos",9/7/1991,Female,Production       ,Technician I,Amy Dunn,1.75,5,9/12/2011,,0
+630317664,"Texas, Estados Unidos",11/9/1991,Male,Production       ,Technician I,Brannon Miller,1.73,5,2/02/2010,,0
+631296631,"Texas, Estados Unidos",21/3/1970,Male,Production       ,Manager,Jennifer Zamora,1.54,3,30/07/2001,,0
+632809561,"Massachusetts, Estados Unidos",18/7/1989,Female,Information Technlogy,Engineer I,Eric Dougall,1.9,3,21/04/2008,9/11/2016,1
+634294052,"Texas, Estados Unidos",17/3/1973,Female,Production       ,Technician I,Amy Dunn,1.75,5,4/06/2020,,0
+634526727,"Texas, Estados Unidos",13/1/1990,Male,Sales,Director,Jennifer Zamora,1.81,4,2/05/2020,,0
+635632749,"Nueva York, Estados Unidos",25/11/1986,Male,Admin Offices,Manager,Janet King,1.54,5,28/02/2018,18/02/2019,1
+637527720,"Massachusetts, Estados Unidos",31/3/1962,Female,Executive Office,Director,Board of Directors,1.51,3,31/05/2001,,0
+638501245,"Texas, Estados Unidos",28/9/1969,Female,Production       ,Technician I,Elijiah Gray,1.68,3,15/04/2004,,0
+638533650,"Idaho, Estados Unidos",27/7/1990,Male,Software Engineering,Engineer II,Alex Sweetwater,1.72,3,6/11/2009,,0
+639515327,"California, Estados Unidos",17/8/1959,Female,Production       ,Technician II,Amy Dunn,1.55,4,24/05/2020,,0
+639859766,"California, Estados Unidos",3/8/1989,Male,Admin Offices,Administrative I,Brandon R. LeBlanc,1.77,5,11/01/2014,17/06/2014,1
+639879727,"California, Estados Unidos",21/6/1970,Male,Production       ,Technician II,Brannon Miller,1.52,2,11/09/2002,,0
+640160903,"Massachusetts, Estados Unidos",24/6/1994,Male,Production       ,Technician I,Brannon Miller,1.73,5,10/01/2013,14/01/2019,1
+641442347,"Texas, Estados Unidos",30/8/1958,Male,Executive Office,Director,Board of Directors,1.52,3,31/03/2006,19/02/2020,1
+642223571,"Texas, Estados Unidos",7/11/1977,Female,Admin Offices,Administrative I,Brandon R. LeBlanc,1.74,4,17/04/2003,,0
+644483290,"California, Estados Unidos",30/3/1978,Male,Production       ,Technician II,Michael Albert,1.81,4,3/10/2003,1/11/2019,1
+645035980,"Colorado, Estados Unidos",25/11/1984,Male,Sales,Engineer I,Lynn Daneault,1.54,5,10/04/2009,,0
+645425408,"California, Estados Unidos",2/2/1977,Male,Information Technlogy,Director,Jennifer Zamora,1.56,3,23/12/2011,,0
+645837445,"Texas, Estados Unidos",17/6/1995,Female,Production       ,Technician I,Amy Dunn,1.75,5,7/03/2016,,0
+646492184,"California, Estados Unidos",16/12/1954,Female,Production       ,Technician II,Michael Albert,1.83,4,27/11/2007,19/03/2008,1
+646649735,"California, Estados Unidos",26/1/1963,Female,Executive Office,Director,Board of Directors,1.87,3,21/07/2008,7/07/2015,1
+647467361,"Massachusetts, Estados Unidos",26/9/1966,Female,Production       ,Technician I,Elijiah Gray,1.68,3,29/12/2015,,0
+647829934,"Massachusetts, Estados Unidos",6/11/1959,Female,Admin Offices,Administrative I,Brandon R. LeBlanc,1.74,4,20/10/2002,,0
+649242583,"California, Estados Unidos",31/1/1975,Female,Admin Offices,Administrative I,Brandon R. LeBlanc,1.74,4,18/01/2000,,0
+652939181,"California, Estados Unidos",4/6/1994,Female,Production       ,Technician I,Elijiah Gray,1.73,4,16/11/2013,,0
+655226587,"Texas, Estados Unidos",31/1/1995,Female,Production       ,Technician I,Brannon Miller,1.77,2,14/04/2020,5/09/2020,1
+655692293,"California, Estados Unidos",14/2/1963,Male,Executive Office,Director,Board of Directors,1.54,2,27/09/2010,,0
+656453129,"California, Estados Unidos",5/6/1986,Female,Software Engineering,Engineer II,Alex Sweetwater,1.68,4,13/06/2007,,0
+661948364,"California, Estados Unidos",4/1/1964,Female,Production       ,Technician II,Elijiah Gray,1.62,1,25/11/2015,,0
+664780767,"California, Estados Unidos",8/5/1990,Male,Information Technlogy,Engineer I,Eric Dougall,1.88,4,22/11/2014,,0
+666505889,"Texas, Estados Unidos",30/3/1974,Male,Information Technlogy,Engineer I,Peter Monroe,1.71,4,5/10/1999,,0
+667221042,"Texas, Estados Unidos",4/8/1972,Female,Production       ,Technician I,Brannon Miller,1.77,2,10/04/1999,,0
+668671719,"Texas, Estados Unidos",4/4/1974,Female,Production       ,Technician II,Webster Butler,1.8,4,13/06/2011,,0
+670287408,"Texas, Estados Unidos",28/2/1971,Female,Information Technlogy,Engineer I,Simon Roup,1.8,4,25/08/2003,,0
+672182132,"California, Estados Unidos",14/2/1987,Female,Admin Offices,Administrative II,Elijiah Gray,1.6,3,3/06/2006,9/12/2010,1
+675300993,"Massachusetts, Estados Unidos",5/4/1978,Male,Production       ,Technician I,Kelley Spirea,1.66,4,29/01/2019,12/08/2020,1
+675330401,"Texas, Estados Unidos",28/9/1974,Male,Production       ,Technician II,Brannon Miller,1.72,5,24/08/1996,,0
+676567411,"Tennessee, Estados Unidos",1/9/1974,Male,Sales,Engineer II,John Smith,1.9,1,26/09/2019,2/09/2020,1
+676966137,"Massachusetts, Estados Unidos",24/5/1956,Female,Information Technlogy,Engineer I,Simon Roup,1.85,1,12/02/1999,10/05/2005,1
+677232900,"California, Estados Unidos",26/10/1963,Female,Production       ,Technician I,Brannon Miller,1.64,1,22/08/2001,10/06/2012,1
+677816411,"Texas, Estados Unidos",2/12/1960,Male,Production       ,Manager,Debra Houlihan,1.64,3,9/12/2014,16/05/2015,1
+681234397,"Texas, Estados Unidos",13/11/1990,Female,Admin Offices,Manager,David Stanley,1.69,1,18/06/2009,2/03/2011,1
+682788944,"Texas, Estados Unidos",21/5/1982,Female,Admin Offices,Administrative II,David Stanley,1.8,4,12/09/2005,,0
+685549680,"Texas, Estados Unidos",18/8/1979,Male,Admin Offices,Administrative II,Elijiah Gray,1.62,1,14/07/2008,,0
+685916108,"Texas, Estados Unidos",18/3/1972,Male,Information Technlogy,Engineer I,Simon Roup,1.93,1,8/02/1998,,0
+686592186,"Texas, Estados Unidos",22/11/1983,Female,Sales,Engineer I,John Smith,1.57,1,10/01/2018,,0
+688187890,"Texas, Estados Unidos",21/9/1984,Female,Software Engineering,Engineer II,Alex Sweetwater,1.64,5,5/01/2008,26/10/2020,1
+688466884,"Texas, Estados Unidos",25/8/1988,Female,Production       ,Technician I,Amy Dunn,1.65,5,8/08/2018,26/01/2019,1
+692143846,"Texas, Estados Unidos",7/12/1965,Female,Software Engineering,Engineer I,Alex Sweetwater,1.73,1,11/02/2002,16/07/2019,1
+695729686,"Massachusetts, Estados Unidos",18/9/1976,Male,Admin Offices,Administrative II,Brandon R. LeBlanc,1.7,2,21/11/2011,,0
+696973950,"Texas, Estados Unidos",20/11/1992,Female,Software Engineering,Engineer I,Alex Sweetwater,1.71,2,22/04/2014,22/10/2015,1
+698303577,"Massachusetts, Estados Unidos",18/5/1993,Female,Admin Offices,Administrative I,Brandon R. LeBlanc,1.73,1,21/11/2012,26/02/2014,1
+698503832,"California, Estados Unidos",26/9/1993,Female,Production       ,Technician I,Elijiah Gray,1.68,3,25/08/2014,,0
+699675300,"Texas, Estados Unidos",29/5/1976,Male,Sales,Engineer I,Lynn Daneault,1.54,5,10/03/2001,,0
+699884249,"Texas, Estados Unidos",20/11/1982,Female,Sales,Engineer II,Lynn Daneault,1.91,1,22/01/2016,18/06/2017,1
+701474430,"California, Estados Unidos",17/6/1969,Female,Software Engineering,Engineer II,Alex Sweetwater,1.69,3,16/08/2018,,0
+704341365,"Massachusetts, Estados Unidos",28/7/1988,Female,Production       ,Technician I,Brannon Miller,1.68,5,1/06/2012,,0
+705527347,"Texas, Estados Unidos",1/8/1991,Male,Production       ,Technician I,Elijiah Gray,1.7,4,13/04/2013,15/10/2013,1
+715824529,"Texas, Estados Unidos",17/10/1994,Male,Production       ,Technician I,Amy Dunn,1.7,1,8/02/2018,16/10/2018,1
+715959675,"Massachusetts, Estados Unidos",9/10/1973,Male,Production       ,Manager,Janet King,1.79,2,26/12/2020,30/12/2020,1
+718218570,"Massachusetts, Estados Unidos",15/3/1970,Male,Production       ,Technician I,Brannon Miller,1.66,1,13/05/2010,,0
+718782259,"Massachusetts, Estados Unidos",22/2/1982,Male,Production       ,Technician I,Brannon Miller,1.72,3,2/07/2016,,0
+719041780,"Texas, Estados Unidos",18/12/1973,Male,Information Technlogy,Engineer I,Peter Monroe,1.77,3,7/11/2007,,0
+722721355,"Massachusetts, Estados Unidos",22/1/1973,Female,Production       ,Technician I,Brannon Miller,1.78,5,16/04/2018,,0
+723251968,"Massachusetts, Estados Unidos",28/11/1993,Female,Admin Offices,Administrative I,Elijiah Gray,1.63,3,27/09/2013,,0
+734502361,"Massachusetts, Estados Unidos",8/10/1967,Female,Production       ,Technician I,Elijiah Gray,1.73,4,5/07/2013,,0
+735426773,"Texas, Estados Unidos",24/6/1959,Female,Information Technlogy,Engineer I,Simon Roup,1.81,4,1/07/2012,,0
+735708974,"Massachusetts, Estados Unidos",21/10/1995,Female,Production       ,Technician II,Amy Dunn,1.62,4,28/02/2015,,0
+742342647,"California, Estados Unidos",4/3/1977,Male,Information Technlogy,Manager,Janet King,1.58,4,21/11/2017,,0
+745742297,"Texas, Estados Unidos",21/5/1996,Female,Admin Offices,Administrative I,David Stanley,1.84,1,2/12/2014,26/07/2015,1
+745950179,"Massachusetts, Estados Unidos",6/7/1986,Female,Information Technlogy,Engineer I,Peter Monroe,1.89,2,18/08/2013,,0
+746765675,"Massachusetts, Estados Unidos",17/5/1992,Female,Production       ,Technician I,Brannon Miller,1.68,5,25/04/2011,,0
+747638661,"Texas, Estados Unidos",25/3/1978,Female,Production       ,Technician II,Amy Dunn,1.55,4,10/04/2014,,0
